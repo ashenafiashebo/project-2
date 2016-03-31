@@ -102,6 +102,7 @@ img {
 .tagline {
 	max-width: 50%;
 	padding-left: 10px;
+	float: left;
 	
 }
 /* ================================= 
