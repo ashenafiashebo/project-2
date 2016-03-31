@@ -70,11 +70,12 @@ img {
 	padding-top: .5em;
 	padding-bottom: .5em;
 }
-.banner,
+
 .main-footer {
-	text-align: center;
+	text-align: left;
 }
 .banner {
+	text-align: center;
 	color: #fff;
 	background: #3acec2;
 	padding: 3.2em 0;
