@@ -95,6 +95,7 @@ img {
 
 .logo {
 	width: 190px;
+	float: right;
 }
 .headline {
 	margin-bottom: 0;
