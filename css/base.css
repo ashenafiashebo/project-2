@@ -96,14 +96,14 @@ img {
 .logo {
 	width: 190px;
 	float: right;
-}
-.headline {
-	margin-bottom: 0;
-}
-.feat-img {
-	border-radius: 5px;
+	padding-right:5px;
 }
 
+.tagline {
+	
+	padding-left: 5px;
+	
+}
 /* ================================= 
   Media Queries
 ==================================== */
