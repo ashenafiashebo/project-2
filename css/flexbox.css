@@ -44,14 +44,15 @@ flex-grow: 2;
 .logo {
 	flex-direction: row;
 	justify-content: space-around;
-	margin-right: 20px;
+	align-items:stretch;
+
 	
 }
 
 .tagline {
 	flex-direction: row;
 	order: -1;
-	margin: 20px;
+
 }
 
 }
