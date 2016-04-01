@@ -99,6 +99,8 @@ body {
 	flex-direction: column;
 	flex-wrap: wrap;
         align-self:flex-start ;
+        justify-content: space-around;
+
 }
 
 .gallery li {
