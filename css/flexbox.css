@@ -54,6 +54,7 @@ body {
 	border-radius: 3px;
 	flex-wrap: wrap;
 	flex-direction: column;
+	flex:2;
 	
 }
 
