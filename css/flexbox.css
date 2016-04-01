@@ -14,8 +14,8 @@ body {
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
   flex: 1;
   background: #fff;
-  padding-right: 2em;
-  padding-left: 2em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .banner{
