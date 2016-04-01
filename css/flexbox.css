@@ -48,13 +48,13 @@ body {
 .logo {
 	flex-direction: row;
         margin: auto;
-        justify-content: stretch;
+        justify-content: flex-end;
         
 }
 
 .tagline {
 
-        justify-content: stretch;
+        justify-content: flex-start;
 
 	flex-direction: row;
 	order: -1;
