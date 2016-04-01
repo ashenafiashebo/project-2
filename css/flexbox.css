@@ -105,7 +105,7 @@ body {
 .gallery li {
 	flex-direction: column;
 	flex-wrap: wrap;
-        align-self:flex-start ;
+        align-self:center;
         justify-content: space-between;
         align-items: center;
 }
