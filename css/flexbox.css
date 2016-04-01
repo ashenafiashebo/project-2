@@ -47,7 +47,7 @@ body {
 	
 }
 
-.gallery-1{
+.gallery-1 li {
 	margin: auto;
 	background: red;
 }
