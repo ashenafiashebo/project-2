@@ -47,6 +47,12 @@ body {
 	
 }
 
+.gallery-1{
+	margin: auto;
+}
+	
+}
+
 
 .banner {
   flex-direction: row;
