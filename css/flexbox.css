@@ -104,6 +104,7 @@ body {
 }
 
 .gallery li {
+  margin: auto;
   flex: 3;
 }
 .banner{
