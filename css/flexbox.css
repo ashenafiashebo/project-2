@@ -57,10 +57,11 @@ body {
   align-items: center;
 }
 .main-footer{
-	flex: column;
+	flex-direction: column;
 	background: whiteSmoke;
 	justify-content: space-beteween;
 	align-items: center;
+	
 }
 
 .row {
