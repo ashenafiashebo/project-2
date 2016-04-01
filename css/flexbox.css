@@ -61,7 +61,7 @@ PAGE: PORTFOLIO
   align-items: center;
 }
 
-.gallery
+.gallery li
 {
 flex-direction: row-reverse;
 }
