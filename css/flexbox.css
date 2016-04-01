@@ -8,9 +8,6 @@ body {
   min-height: 100vh;
   background: whiteSmoke;
 }
-.main-header{
-	background: whitesmoke;
-}
 
 .row {
   border-radius: 5px;
@@ -23,6 +20,7 @@ body {
 
 .banner{
   flex-direction: column;
+  background: whitesmoke;
  
 }
 
