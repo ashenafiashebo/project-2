@@ -20,7 +20,29 @@ body {
 	padding-left: 1em;
 	padding-right: 1em;
 }
+./*********************************************
+PAGE: PORTFOLIO
+**********************************************/
 
+.gallery{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.gallery li {
+	width: 45%;
+	margin: 2.5%;
+	background-color: #f5f5f5;
+	color: #bdc3c7;
+}
+
+.gallery li a p {
+	margin: 0;
+	padding: 5%;
+	font-size: 0.75em;
+	color: #bdc3c7
+}
 
 /* ================================= 
   Media Queries
