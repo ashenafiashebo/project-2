@@ -96,18 +96,16 @@ body {
 }
 .row {
 	height: 1000px;
+	flex: 3;
+
+}
+
+.gallery li {
 	flex-direction: column;
 	flex-wrap: wrap;
         align-self:flex-start ;
         justify-content: space-around;
         align-items: center;
-}
-
-}
-
-.gallery li {
-	
-  flex: 3;
 }
 .banner{
   flex-direction: row;
