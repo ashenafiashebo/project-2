@@ -50,11 +50,7 @@ body {
 .gallery-1 li {
 	margin: auto;
 	background: red;
-}
-
-.image-feat {
- flex-direction: column;
- flex-wrap: wrap;
+	width: 500px;
 }
 
 }
