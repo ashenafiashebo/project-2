@@ -35,8 +35,13 @@ body {
 .col {
   flex: 2;
 }
-.banner{
-  flex-direction: row;
+.logo {
+	flex-direction: row;
+	
+}
+
+.tagline {
+	flex-direction: row;
 }
 }
 
