@@ -37,14 +37,15 @@ body {
   flex: 2;
 }
 .logo {
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: space-around;
 	
 }
 
 .tagline {
-	flex-direction: column;
+	flex-direction: row;
 	order: -1;
+	margin: auto;
 }
 
 }
