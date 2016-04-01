@@ -107,7 +107,7 @@ body {
 	flex-wrap: wrap;
         align-self:center;
         justify-content: space-between;
-        align-items: center;
+      
 }
 .banner{
   flex-direction: row;
