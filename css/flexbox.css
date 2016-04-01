@@ -62,6 +62,9 @@ body {
 .gallery li{
 	width: 380px;
 }
+.gallery li:nth-child(5n){
+	clear: left;
+}
 	
 
 .banner {
