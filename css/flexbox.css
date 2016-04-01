@@ -56,7 +56,6 @@ body {
 }
 .main-footer{
 	flex: column;
-	align-items: center;
 	background: whiteSmoke;
 	justify-content: space-beteween;
 }
@@ -70,7 +69,6 @@ body {
 }
 .gallery li{
 	width: 370px;
-	padding-right:10px;
 }
 
 .banner {
