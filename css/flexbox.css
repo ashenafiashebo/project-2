@@ -104,7 +104,7 @@ body {
 	flex-direction: column;
 	flex-wrap: wrap;
         align-self:flex-start ;
-        justify-content: space-around;
+        justify-content: space-between;
         align-items: center;
 }
 .banner{
