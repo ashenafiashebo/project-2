@@ -64,7 +64,7 @@ body {
 .row {
   flex-wrap: wrap;
   flex-direction: column;
-  height: 1200px;
+  height: 1100px;
   align-items: center;
   align-self: auto;
   
