@@ -60,7 +60,7 @@ body {
 }
 .main-footer{
 	flex-direction: row;
-	align-items: stretch;
+	justify-content: space-between;
 }
 .row {
   flex-wrap: wrap;
