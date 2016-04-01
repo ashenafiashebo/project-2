@@ -35,7 +35,9 @@ body {
 .col {
   flex: 2;
 }
-
+.banner{
+  flex-direction: row;
+}
 }
 
 @media (min-width: 1025px) {
@@ -48,5 +50,7 @@ body {
 .primary {
   flex: 3;
 }
-
+.banner{
+  flex-direction: row;
+}
 }
