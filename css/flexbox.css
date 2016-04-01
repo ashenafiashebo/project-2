@@ -112,6 +112,7 @@ body {
 	flex-wrap: wrap;
         align-self:auto;
         justify-content: space-between;
+        width: 25%;
       
 }
 .banner{
