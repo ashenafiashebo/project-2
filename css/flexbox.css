@@ -50,11 +50,8 @@ body {
 .gallery-1 li {
 	margin: auto;
 	background: red;
-	width: 500px;
+	width: 380px;
 }
-
-}
-
 
 .banner {
   flex-direction: row;
