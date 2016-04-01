@@ -64,7 +64,7 @@ body {
   align-items: center;
 }
 .main-footer{
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: space-between;
 }
 .row {
