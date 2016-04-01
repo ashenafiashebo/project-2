@@ -98,14 +98,15 @@ img {
 
 .logo {
 	width: 390px;
-	float: none;
+
 	padding-right:10px;
 }
 
 .tagline {
-	width: 50%;
-	padding-left: 10px;
-	float: none;
+
+	padding-left: 2px;
+	padding-right:2px;
+
 	
 }
 /* ================================= 
