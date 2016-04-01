@@ -59,6 +59,11 @@ body {
   align-items: center ;
   align-self: baseline;
 }
+.gallery li{
+	width: 100px;
+}
+	
+}
 
 .banner {
   flex-direction: row;
