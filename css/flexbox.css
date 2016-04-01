@@ -23,7 +23,7 @@ body {
 .main-nav,
 .row,
 .banner,
-.gallery 
+.gallery li
 {
   display: flex;
 }	
@@ -36,8 +36,8 @@ body {
 .col {
   flex: 2;
 }
-.gallery {
-flex-direction: row	
+.gallery li {
+flex-direction: row;	
 }
 .logo {
 	flex-direction: row;
