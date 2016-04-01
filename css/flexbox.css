@@ -64,7 +64,7 @@ PAGE: PORTFOLIO
 .col {
   flex: 2;
 }
-.gallery li {
+.gallery  {
  flex-direction: column;
 
 }
