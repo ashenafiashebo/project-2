@@ -62,6 +62,7 @@ PAGE: PORTFOLIO
 }
 
 .gallery li {
+ display: inline-flex;
  flex-direction: column;
  flex-wrap: wrap;
  flex: 2;
