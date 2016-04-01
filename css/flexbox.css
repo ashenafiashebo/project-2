@@ -60,10 +60,9 @@ body {
   align-self: baseline;
 }
 .gallery li{
-	width: 100px;
+	width: 1500px;
 }
 	
-}
 
 .banner {
   flex-direction: row;
