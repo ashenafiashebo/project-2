@@ -58,6 +58,7 @@ body {
 	flex: column;
 	background: whiteSmoke;
 	justify-content: space-beteween;
+	align-items: center;
 }
 
 .row {
