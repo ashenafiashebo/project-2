@@ -72,6 +72,7 @@ img {
 .main-header {
 	padding-top: .5em;
 	padding-bottom: .5em;
+	
 }
 
 .main-footer {
@@ -80,7 +81,7 @@ img {
 .banner {
 	text-align: left;
 	color: #fff;
-	background: #3acec2;
+	background: whitesmoke;
 	padding: 3.2em 0;
 	margin-bottom: 48px;
 }
