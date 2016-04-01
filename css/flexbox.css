@@ -43,7 +43,9 @@ body {
 
 .tagline {
 	flex-direction: column;
+	order: -1;
 }
+
 }
 
 @media (min-width: 1025px) {
