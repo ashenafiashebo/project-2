@@ -96,6 +96,7 @@ body {
 }
 .row {
 	height: 1000px;
+	width: 340px;
 }
 
 .gallery li {
