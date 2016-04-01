@@ -96,7 +96,8 @@ body {
 }
 .row {
 	height: 800px;
-	flex: 3;
+        padding-right: 2.5em;
+        padding-left: 2.5em;
 
 }
 
