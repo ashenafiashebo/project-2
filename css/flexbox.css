@@ -37,12 +37,12 @@ body {
   flex: 2;
 }
 .logo {
-	flex-direction: row;
+	flex-direction: column;
 	
 }
 
 .tagline {
-	flex-direction: row;
+	flex-direction: column;
 }
 }
 
