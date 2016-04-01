@@ -94,6 +94,9 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
+.row {
+	height: 1000px;
+}
 
 .gallery li {
   flex: 3;
