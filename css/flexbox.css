@@ -54,7 +54,7 @@ body {
 
 .tagline {
 
-        justify-content: center;
+        justify-content: stretch;
 
 	flex-direction: row;
 	order: -1;
