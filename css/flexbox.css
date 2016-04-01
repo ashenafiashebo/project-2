@@ -100,11 +100,13 @@ body {
 	flex-wrap: wrap;
         align-self:flex-start ;
         justify-content: space-around;
+        align-items: center;
+}
 
 }
 
 .gallery li {
-  margin: auto;
+	
   flex: 3;
 }
 .banner{
