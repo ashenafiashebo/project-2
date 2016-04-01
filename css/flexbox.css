@@ -61,10 +61,9 @@ PAGE: PORTFOLIO
   align-items: center;
 }
 
-.gallery-1,
-.gallery-2
+.gallery
 {
-flex-direction: column;
+flex-direction: row-reverse;
 }
 .banner{
   flex-direction: row;
