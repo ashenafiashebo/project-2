@@ -44,7 +44,7 @@ flex-grow: 2;
 .logo {
 	flex-direction: row;
 	justify-content: space-around;
-	margin: 30px;
+	margin-left: 20px;
 	
 }
 
