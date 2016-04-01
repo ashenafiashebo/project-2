@@ -31,7 +31,8 @@ body {
 .main-header, 
 .main-nav,
 .row,
-.banner
+.banner,
+.gallery li
 {
   display: flex;
 }	
@@ -44,7 +45,11 @@ body {
 .col {
   flex: 2;
 }
-
+.gallery li {
+ flex-direction: column;
+ flex-wrap: wrap;
+}
+}
 .banner{
   flex-direction: row;
 }
