@@ -47,16 +47,6 @@ body {
   flex-direction: column;
   height: 280px;
 }
-.gallery li {
-	display:flex;
-	background-color: #f5f5f5;
-	color: #bdc3c7;
-        width: 380px
-	padding: 15px;
-	margin: 5px;	
-	border-radius: 3px;
-
-}
 
 .banner {
   flex-direction: row;
