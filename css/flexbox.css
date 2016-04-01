@@ -61,9 +61,6 @@ body {
   height: 280px;
   align-items: center ;
 }
-.gallery li{
-	width: 45%
-}
 
 .banner {
   flex-direction: row;
