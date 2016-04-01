@@ -31,7 +31,7 @@ body {
 .main-header, 
 .main-nav,
 .row,
-.banner,
+.banner
 {
   display: flex;
 }	
