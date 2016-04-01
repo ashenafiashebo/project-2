@@ -40,6 +40,9 @@ body {
   flex-direction: column;
   align-items: center;
 }
+.banner {
+	flex-direction: row;
+}
 
 .col {
   flex: 2;
