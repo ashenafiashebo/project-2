@@ -59,6 +59,8 @@ body {
   flex-wrap: wrap;
   flex-direction: column;
   height: 280px;
+  justify-content:space-between;
+}
 }
 
 .banner {
