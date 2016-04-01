@@ -59,7 +59,7 @@ body {
   align-items: center;
 }
 .main-footer{
-	flex-direction: column;
+	flex-direction: row;
 	align-items: stretch;
 }
 .row {
