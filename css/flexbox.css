@@ -65,7 +65,7 @@ PAGE: PORTFOLIO
   flex: 2;
 }
 .gallery li {
- flex-direction: row;
+ flex-direction: column;
  flex-wrap: wrap;
 }
 .banner{
