@@ -61,11 +61,11 @@ PAGE: PORTFOLIO
   align-items: center;
 }
 
-.gallery li
-{
-flex-direction: row-reverse;
+.gallery {
+        flex-direction: row-reverse;
 }
-.banner{
+
+.banner {
   flex-direction: row;
 }
 
