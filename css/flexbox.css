@@ -64,7 +64,7 @@ body {
 .row {
   flex-wrap: wrap;
   flex-direction: column;
-  height: 1350px;
+  height: 1250px;
  
   align-self: auto;
 }
