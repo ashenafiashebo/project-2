@@ -56,7 +56,7 @@ flex-grow: 2;
 
 .tagline {
 	flex-direction: row;
-	order: -1;
+
 	margin: auto;
       
 }
