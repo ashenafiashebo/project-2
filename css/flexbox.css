@@ -44,19 +44,8 @@ body {
 	margin:auto;
 	background-color: #f5f5f5;
 	color: #bdc3c7;
+	width: 370px;
 	flex-wrap: wrap;
-	
-}
-
-.gallery-1 li,
-.gallery-2 li,
-.gallery-3 li,
-.gallery-4 li,
-.gallery-5 li,
-.gallery-6 li{
-	margin: auto;
-	background: #f5f5f5;
-	width: 45%;
 	
 }
 
