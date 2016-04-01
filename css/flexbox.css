@@ -56,6 +56,7 @@ body {
 .main-footer{
 	flex: column;
 	align-items: center;
+	background: whiteSmoke;
 }
 
 .row {
