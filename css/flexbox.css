@@ -58,8 +58,8 @@ body {
   flex-wrap: wrap;
   flex-direction: column;
   height: 1350px;
-  align-items: center ;
-  align-self: baseline;
+ 
+  align-self: auto;
 }
 .gallery li{
 	width: 370px;
