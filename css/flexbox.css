@@ -39,6 +39,7 @@ body {
 
 
 
+
 /* ================================= 
   Media Queries
 ==================================== */
@@ -49,8 +50,8 @@ body {
 .main-nav,
 .row,
 .banner,
-.main-footer
-{
+.main-footer,
+.banner-footer {
   display: flex;
 }	
 
@@ -69,6 +70,10 @@ body {
   align-items: center;
   align-self: auto;
   
+}
+.banner-footer{
+	background: whiteSmoke;
+	flex-direction: column
 }
 .gallery li{
 	width: 370px;
