@@ -136,8 +136,7 @@ img {
 
 @media (min-width: 769px) {
 	.main-header,
-	.row,
-	.gallery {
+	.row{
 		width: 90%;
 		margin: 0 auto;
 	}
