@@ -44,7 +44,8 @@ body {
 .main-header, 
 .main-nav,
 .row,
-.banner
+.banner,
+.main-footer
 {
   display: flex;
 }	
