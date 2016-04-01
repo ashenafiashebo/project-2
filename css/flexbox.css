@@ -23,7 +23,7 @@ body {
 .main-nav,
 .row,
 .banner,
-.gallery li
+.gallery 
 {
   display: flex;
 }	
@@ -36,7 +36,7 @@ body {
 .col {
   flex: 2;
 }
-.gallery li {
+.gallery {
 flex-wrap: wrap;
 flex-grow: 2;
 }
