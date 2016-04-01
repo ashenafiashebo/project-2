@@ -60,12 +60,9 @@ body {
   align-self: baseline;
 }
 .gallery li{
-	width: 380px;
+	width: 370px;
+	padding-right:5px;
 }
-.gallery li:nth-child(5n){
-	clear: left;
-}
-	
 
 .banner {
   flex-direction: row;
