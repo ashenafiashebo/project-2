@@ -61,13 +61,13 @@ PAGE: PORTFOLIO
   align-items: center;
 }
 
-.gallery {
- display: flex;
- width: 45%;
- flex-direction: column;
- flex-wrap: wrap;
- flex: 2;
+.gallery-1,
+.gallery-2,
+{
 
+ width: 50%;
+
+ 
 }
 .banner{
   flex-direction: row;
