@@ -44,7 +44,8 @@ body {
   margin: 45px auto;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
   flex-wrap: wrap;
-  flex-direction: row;
+  flex-direction: column;
+  height: 280px;
   flex:2;
 }
 .gallery li {
