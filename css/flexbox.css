@@ -57,7 +57,7 @@ body {
   flex-direction: column;
   height: 500px;
   align-items: center ;
-  align-self: center;
+  align-self: baseline;
 }
 }
 
