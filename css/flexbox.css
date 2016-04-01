@@ -95,7 +95,7 @@ body {
   justify-content: space-between;
 }
 
-.primary {
+.gallery li {
   flex: 3;
 }
 .banner{
