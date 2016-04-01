@@ -111,13 +111,15 @@ img {
 
 @media (min-width: 769px) {
 	.main-header,
-	.row {
+	.row,
+	.gallery {
 		width: 90%;
 		margin: 0 auto;
 	}
 	.tagline {
 		font-size: 1.4em;
 	}
+        
 }
 @media (min-width: 1025px) {
 	.main-header,
