@@ -96,7 +96,6 @@ body {
 }
 .row {
 	height: 1000px;
-	width: 340px;
 	flex-direction: column;
 	flex-wrap: wrap;
         align-self:flex-start ;
