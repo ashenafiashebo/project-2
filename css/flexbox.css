@@ -65,7 +65,7 @@ body {
   flex-wrap: wrap;
   flex-direction: column;
   height: 1000px;
- 
+  width: 370px;
   align-self: auto;
 }
 .gallery li{
