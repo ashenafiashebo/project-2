@@ -37,7 +37,7 @@ body {
   flex: 2;
 }
 .gallery li {
-flex-direction: row;	
+flex-wrap: wrap;	
 }
 .logo {
 	flex-direction: row;
