@@ -96,9 +96,8 @@ body {
 }
 .row {
 	height: 800px;
-        padding-right: 2.5em;
-        padding-left: 2.5em;
-
+        padding-right: 5em;
+       
 }
 
 .gallery li {
