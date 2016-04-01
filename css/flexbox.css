@@ -64,8 +64,9 @@ PAGE: PORTFOLIO
 .col {
   flex: 2;
 }
-.gallery  {
+.gallery li {
  flex-direction: column;
+ width: 45%;
 
 }
 .banner{
