@@ -53,6 +53,10 @@ body {
   flex-direction: column;
   align-items: center;
 }
+.main-footer{
+	flex: column;
+	align-items: center;
+}
 
 .row {
   flex-wrap: wrap;
