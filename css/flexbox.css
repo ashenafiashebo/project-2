@@ -47,7 +47,12 @@ body {
 	
 }
 
-.gallery-1 li {
+.gallery-1 li,
+.gallery-2 li,
+.gallery-3 li,
+.gallery-4 li,
+.gallery-5 li,
+.gallery-6 li{
 	margin: auto;
 	background: red;
 	width: 380px;
