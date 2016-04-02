@@ -113,7 +113,7 @@ body {
 }
 
 .banner-footer span {
-	item-align: center;
+      align-self:auto;
 	
 }
 }
