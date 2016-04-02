@@ -113,7 +113,7 @@ body {
 }
 
 .banner-footer span {
-	text-align: center;
+	justify-content: center;
 	
 }
 }
