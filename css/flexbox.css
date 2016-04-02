@@ -44,6 +44,11 @@ body {
 	 padding-right: 1em;
 	 padding-left: 1em;
 }
+.tagline {
+
+	color: lightblack;
+      
+}
 
 
 
@@ -98,7 +103,6 @@ body {
 .tagline {
 
 	order: -1;
-	color: #ccc;
       
 }
 
