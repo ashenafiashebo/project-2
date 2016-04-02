@@ -80,8 +80,7 @@ body {
 .row {
   flex-wrap: wrap;
   flex-direction: column;
-  
-  flex: 0 1000px;
+  height: 1085px;
   align-items: center;
   align-self: auto;
   
