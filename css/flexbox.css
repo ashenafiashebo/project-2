@@ -82,8 +82,8 @@ body {
 }
 .banner-footer{
 	flex-direction: column
-	padding-right: 2.5em;
-	padding-left: 2.5em;
+	padding-right: 2em;
+	padding-left: 2em;
 }
 .gallery li{
 	width: 370px;
