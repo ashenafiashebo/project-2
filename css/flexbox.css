@@ -101,11 +101,9 @@ body {
 
 .tagline {
 
-        justify-content: flex-start;
-
-	flex-direction: row;
 	order: -1;
 	margin: auto;
+	color: #ccc;
       
 }
 
