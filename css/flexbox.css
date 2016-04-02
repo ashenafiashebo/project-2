@@ -43,10 +43,11 @@ body {
 	 margin-bottom: 0;
 	 padding-right: 1em;
 	 padding-left: 1em;
+	 color: lightgray;
 }
 .tagline {
 
-	color: black;
+	color: lightgray;
       
 }
 
@@ -108,6 +109,7 @@ body {
 
 .banner-footer span {
 	text-align: center;
+	
 }
 }
 
