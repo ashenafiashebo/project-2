@@ -133,4 +133,9 @@ body {
 .banner{
   flex-direction: row;
 }
+.banner-footer span {
+	text-align: center;
+}
+	
+}
 }
