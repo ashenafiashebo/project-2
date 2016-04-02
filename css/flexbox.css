@@ -96,14 +96,14 @@ body {
 }
 
 .logo {
-    padding-right: 2em;
+    padding-right: 1em;
        
 }
 
 .tagline {
 
 	order: -1;
-        padding-left: 2em;
+        padding-left: 1em;
 	color: #ccc;
       
 }
