@@ -114,8 +114,8 @@ body {
   justify-content: space-between;
 }
 .row {
-	height: 800px;
-	flex: 1 700px;
+
+	flex: 1.4 700px;
 
      
 }
