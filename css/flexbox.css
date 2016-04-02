@@ -116,6 +116,7 @@ body {
 .row {
 	height: 800px;
 	flex: 1 200px;
+	flex-wrap: wrap;
      
 }
 
