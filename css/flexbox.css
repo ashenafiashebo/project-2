@@ -47,7 +47,7 @@ body {
 }
 .tagline {
 
-	color: lightgray;
+	color: gray;
       
 }
 
@@ -95,6 +95,7 @@ body {
 }
 .gallery li p {
  text-align: center;
+ color: gray;
 }
 .banner {
   flex-direction: row;
