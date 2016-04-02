@@ -89,8 +89,9 @@ body {
 .banner-footer{
 	flex-direction: column
 }
-.banner-footer p {
+.banner-footer h3 {
    color: gray;	
+   font-size: 1.4em;
 }
 .gallery li{
 	width: 370px;
