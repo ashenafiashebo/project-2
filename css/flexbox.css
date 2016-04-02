@@ -87,6 +87,8 @@ body {
 	width: 370px;
 	margin: auto;
 }
+.gallery li p {
+ text-align: center;
 
 .banner {
   flex-direction: row;
@@ -94,14 +96,14 @@ body {
 }
 
 .logo {
-    
+    margin-right: auto;
        
 }
 
 .tagline {
 
 	order: -1;
-
+        margin-left: auto;
 	color: #ccc;
       
 }
