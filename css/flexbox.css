@@ -106,7 +106,9 @@ body {
       
 }
 
-
+.banner-footer span {
+	text-align: center;
+}
 }
 
 @media (min-width: 1025px) {
@@ -130,9 +132,5 @@ body {
 .banner{
   flex-direction: row;
 }
-.banner-footer span {
-	text-align: center;
-}
-	
-}
+
 }
