@@ -129,12 +129,11 @@ body {
   flex-direction: row;
 }
 .logo{
-    padding-right: 1em;	
-    padding-left: 1em;
-    margin-right: auto;
+    
+    margin-right: 1em;
 }
 .tagline{
-  margin-left: auto;
+  margin-left: 1em;
 	
 }
 
