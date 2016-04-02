@@ -95,15 +95,9 @@ body {
   justify-content: space-around;
 }
 
-.logo {
-    padding-right: 1em;
-       
-}
-
 .tagline {
 
 	order: -1;
-        padding-left: 1em;
 	color: #ccc;
       
 }
@@ -134,5 +128,8 @@ body {
 .banner{
   flex-direction: row;
 }
-
+.logo{
+    padding-right: 1em;	
+    padding-left: 1em;
+}
 }
