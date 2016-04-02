@@ -90,19 +90,18 @@ body {
 
 .banner {
   flex-direction: row;
+  justify-content: space-around;
 }
 
 .logo {
-	flex-direction: row;
-        margin: auto;
-        justify-content: flex-end;
-        
+    
+       
 }
 
 .tagline {
 
 	order: -1;
-	margin: auto;
+
 	color: #ccc;
       
 }
