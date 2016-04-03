@@ -19,36 +19,6 @@
 
 @media (min-width: 1025px) {
 
-.main-header {
-  flex-direction: row;
-  justify-content: space-between;
-}
-.row {
 
-	flex: 1.4 700px;
-
-     
-}
-
-
-
-.gallery li {
-	flex-direction: column;
-	flex-wrap: wrap;
-        align-self:auto;
-        justify-content: space-between;
-        width: 325px;
-}
-.banner{
-  flex-direction: row;
-}
-.logo{
-    
-    margin-right: 8em;
-}
-.tagline{
-  margin-left: 5em;
-	
-}
 
 }
