@@ -77,6 +77,7 @@ body {
 .main-footer{
 	flex-direction: row;
 	justify-content: space-between;
+	margin-top: 0;
 }
 .row {
   flex-wrap: wrap;
@@ -88,7 +89,7 @@ body {
 }
 .banner-footer{
 	flex-direction: column
-	margin-bottom: 0;
+
 }
 .banner-footer h3 {
    color: gray;	
