@@ -128,7 +128,7 @@ img {
 }
 
 
-.gallery li{
+.gallery {
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -152,18 +152,21 @@ img {
 }
 
 /* ---- Page Elements ---- */
+
 .banner-image {
         min-width: 100%;
   	padding-left: 5px;
 	padding-right:5px;
-	text-align: center;
-}
-
+        margin: 2em auto;
+        border-radius: 3px;
+        box-shadow: 0px 1px 0px rgba(52, 73, 94, 0.2);
+        }
+ 
 .tagline {
+	max-width: 50%;
 	color: gray;
 	padding-left: 5px;
 	padding-right:5px;
-	text-align: center;
 }
 /* ================================= 
   Media Queries
@@ -231,11 +234,7 @@ img {
          flex-direction: row;
          justify-content: space-around;
         }
-	
-.banner-image {
-         margin: 2em auto;
-              }
-              
+ 
 .tagline {
           order: -1;
          }
@@ -255,11 +254,6 @@ img {
 	max-width: 1150px;
 	}
 
-.banner-image {
-         border-radius: 3px;
-         box-shadow: 0px 1px 0px rgba(52, 73, 94, 0.2);
-         }
-         
 .main-header {
             flex-direction: row;
             justify-content: space-between;
