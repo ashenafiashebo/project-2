@@ -29,6 +29,39 @@ body {
   background: whitesmoke;
  
 }
+
+
+.gallery li {
+	display:flex;
+	background-color: red;
+	color: #bdc3c7;
+        width: 90%;
+	border-radius: 3px;
+
+}
+.main-footer{
+	background: whiteSmoke;
+	margin-bottom: 0;
+}
+.banner-footer{
+	 border-radius:35px;
+	 box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+	 background: whitesmoke;
+	 margin-top: 2em;
+	 margin-bottom: 0;
+	 padding-right: 1em;
+	 padding-left: 1em;
+	 color: lightgray;
+}
+.tagline {
+
+	color: gray;
+      
+}
+
+
+
+
 ul {
   margin: 0;
   padding: 0;
