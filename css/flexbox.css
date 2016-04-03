@@ -34,10 +34,12 @@ body {
 }
 .main-footer{
 	background: whiteSmoke;
+	box-shadow: 1.5px 0 0 0 rgba(0,0,0,0.1);
+	margin-top: 0;
 }
 .banner-footer{
 	 
-	 box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+	 
 	 background: whitesmoke;
 	 margin-top: 2em;
 	 margin-bottom: 0;
@@ -77,7 +79,7 @@ body {
 .main-footer{
 	flex-direction: row;
 	justify-content: space-between;
-	margin-top: 0;
+
 }
 .row {
   flex-wrap: wrap;
