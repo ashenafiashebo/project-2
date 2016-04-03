@@ -29,7 +29,9 @@ body {
   background: whitesmoke;
  
 }
-
+.gallery-1{
+order: -1;	
+}
 
 .gallery li {
 	display:flex;
