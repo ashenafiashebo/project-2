@@ -148,7 +148,7 @@ img {
 @media (min-width: 1025px) {
 	.main-header,
 	.row {
-		width: 80%;
+		width: 90%;
 		max-width: 1150px;
 	}
 }
