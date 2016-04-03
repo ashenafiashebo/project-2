@@ -30,7 +30,7 @@ body {
  
 }
 .gallery-1{
-flex-order: -1;	
+flex-order: 1;	
 }
 
 .gallery li {
