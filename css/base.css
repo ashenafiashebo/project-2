@@ -169,7 +169,7 @@ img {
 
 /* ---- Page Elements ---- */
 .banner-image {
-  min-width: 100%;
+  max-width: 50%;
 }
 /* ================================= 
 .logo {
