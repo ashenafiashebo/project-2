@@ -43,8 +43,8 @@ body {
 	margin-bottom: 0;
 }
 .banner-footer{
-	 border-radius:35px;
-	 box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+	 border-radius:5px;
+	 box-shadow: 0px 1px 0px rgba(52, 73, 94, 0.2);
 	 background: whitesmoke;
 	 margin-top: 2em;
 	 margin-bottom: 0;
