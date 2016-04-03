@@ -33,7 +33,7 @@ body {
         }
 
 .gallery li {
-
+	display:flex;
 	background-color: red;
 	color: #bdc3c7;
         width: 90%;
