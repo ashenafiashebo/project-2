@@ -23,6 +23,12 @@ body {
   padding-left: 1em;
 	
 }
+
+.banner{
+  flex-direction: column;
+  background: whitesmoke;
+ 
+}
 ul {
   margin: 0;
   padding: 0;
