@@ -2,54 +2,6 @@
   Base Styles
 ==================================== */
 
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  background: whitesmoke;
-}
-
-.row {
-
-  flex: 1;
-  background: #fff;
-  padding-right: 1em;
-  padding-left: 1em;
-}
-
-.banner{
-  flex-direction: column;
-  background: whitesmoke;
- 
-}
-
-
-.gallery li {
-	display:flex;
-	background-color: red;
-	color: #bdc3c7;
-        width: 90%;
-	border-radius: 3px;
-
-}
-.main-footer{
-	background: whiteSmoke;
-	margin-bottom: 0;
-}
-.banner-footer{
-
-	 background: whitesmoke;
-	 margin-top: 2em;
-	 margin-bottom: 0;
-	 padding-right: 1em;
-	 padding-left: 1em;
-	 color: lightgray;
-}
-.tagline {
-
-	color: gray;
-      
-}
 
 
 
