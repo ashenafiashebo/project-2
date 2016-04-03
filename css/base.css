@@ -168,13 +168,16 @@ img {
 }
 
 /* ---- Page Elements ---- */
-
+.banner-image {
+  min-width: 100%;
+}
+/* ================================= 
 .logo {
 	width: 390px;
 	padding-left: 5px;
 	padding-right:5px;
 }
-
+==================================== */
 .tagline {
 	padding-left: 5px;
 	padding-right:5px;
@@ -193,11 +196,7 @@ img {
 	.tagline {
 		font-size: 1.4em;
 	}
-	
-	.gallery-1, 
-	.gallery-2 li p{
-	 	
-	}
+
         
 }
 @media (min-width: 1025px) {
@@ -206,4 +205,12 @@ img {
 		width: 90%;
 		max-width: 1150px;
 	}
+	.banner-image {
+         margin: 2em auto;
+              }
+	.banner-image {
+         border-radius: 3px;
+         box-shadow: 0px 1px 0px rgba(52, 73, 94, 0.2);
+         }
+  
 }
