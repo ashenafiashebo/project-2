@@ -228,6 +228,10 @@ img {
              font-size: 1.4em;
 }
 
+.gallery li {
+	width: 370px;
+}
+
 .gallery li p {
          text-align: center;
          color: gray;
