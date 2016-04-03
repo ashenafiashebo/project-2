@@ -221,8 +221,6 @@ img {
 
 .banner-footer{
 	     flex-direction: column
-	     align-items: center;
-             align-self: auto;
 }
 
 .banner-footer h3 {
@@ -248,7 +246,10 @@ img {
           text-align: center;
                 }
 
-
+}
+/* ================================= 
+  Media Queries
+==================================== */
 @media (min-width: 1025px) {
 .main-header,
 .row {
