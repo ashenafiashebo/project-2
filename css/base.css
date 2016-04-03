@@ -32,14 +32,6 @@ body {
         background: whitesmoke;
         }
 
-.gallery li {
-	display:flex;
-	background-color: red;
-	color: #bdc3c7;
-        width: 90%;
-	border-radius: 1.5px;
-        }
-        
 .main-footer {
 	background: whiteSmoke;
 	margin-bottom: 0;
