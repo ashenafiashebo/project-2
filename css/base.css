@@ -119,17 +119,10 @@ img {
 .main-header {
 	padding-top: .5em;
 	padding-bottom: .5em;
-	
 }
 
 .main-footer {
 	text-align: center;
-}
-.banner {
-	text-align: left;
-	color: #fff;
-	padding: 3.2em 0;
-	margin-bottom: 48px;
 }
 
 .main-footer {
