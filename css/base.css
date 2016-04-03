@@ -259,17 +259,48 @@ img {
 
 
 @media (min-width: 1025px) {
-	.main-header,
-	.row {
-		width: 90%;
-		max-width: 1150px;
+.main-header,
+.row {
+	width: 90%;
+	max-width: 1150px;
 	}
-	.banner-image {
+	
+.banner-image {
          margin: 2em auto;
               }
-	.banner-image {
+              
+.banner-image {
          border-radius: 3px;
          box-shadow: 0px 1px 0px rgba(52, 73, 94, 0.2);
          }
+         
+.main-header {
+            flex-direction: row;
+            justify-content: space-between;
+                }
+                
+.row {
+	flex: 1.4 700px;
+         }
+
+.gallery li {
+	flex-direction: column;
+	flex-wrap: wrap;
+        align-self:auto;
+        justify-content: space-between;
+        width: 325px;
+               }
+               
+.banner {
+        flex-direction: row;
+        }
+        
+.logo {
+    margin-right: 8em;
+         }
+         
+.tagline {
+  margin-left: 5em;
+        }
   
 }
