@@ -22,11 +22,15 @@ body {
   padding-right: 1em;
   padding-left: 1em;
      }
-
-.banner{
-       flex-direction: column;
-       background: whitesmoke;
-}
+     
+.banner {
+	text-align: left;
+	color: #fff;
+	padding: 3.2em 0;
+	margin-bottom: 24px;
+	flex-direction: column;
+        background: whitesmoke;
+        }
 
 .gallery li {
 	display:flex;
