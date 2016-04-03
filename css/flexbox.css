@@ -88,6 +88,7 @@ body {
 }
 .banner-footer{
 	flex-direction: column
+	margin-bottom: 0;
 }
 .banner-footer h3 {
    color: gray;	
