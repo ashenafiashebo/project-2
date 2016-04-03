@@ -13,63 +13,7 @@
 
 @media (min-width: 769px) {
 
-.main-header, 
-.main-nav,
-.row,
-.banner,
-.main-footer,
-.banner-footer {
-  display: flex;
-}	
 
-.main-header{
-  flex-direction: column;
-  align-items: center;
-}
-.main-footer{
-	flex-direction: row;
-	justify-content: space-between;
-
-}
-.row {
-  flex-wrap: wrap;
-  flex-direction: column;
-  height: 1085px;
-  align-items: center;
-  align-self: auto;
-  
-}
-.banner-footer{
-	flex-direction: column
-
-}
-.banner-footer h3 {
-   color: gray;	
-   font-size: 1em;
-}
-.gallery li{
-	width: 370px;
-	margin: auto;
-}
-.gallery li p {
- text-align: center;
- color: gray;
-}
-.banner {
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-.tagline {
-
-	order: -1;
-      
-}
-
-.banner-footer p {
-     text-align: center;
-    
-	
 }
 }
 
