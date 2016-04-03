@@ -37,7 +37,7 @@ body {
 	margin-bottom: 0;
 }
 .banner-footer{
-	
+	 border-radius:35px;
 	 box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 	 background: whitesmoke;
 	 margin-top: 2em;
