@@ -24,7 +24,7 @@ body {
 }
 
 
-.gallery li {
+.gallery {
 	display:flex;
 	background-color: red;
 	color: #bdc3c7;
