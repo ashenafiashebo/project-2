@@ -13,7 +13,7 @@ body {
 	display: flex;
         flex-direction: column;
         min-height: 100vh;
-        background: whitesmoke;
+        background: #fff;
       }
       
 .row {  
@@ -106,16 +106,13 @@ img {
 /* ---- Layout Containers ---- */
 
 .main-header {
-	padding-top: 5em;
-	padding-right: 5em;
-	padding-left: 5em;
+	padding-top: .5em;
 	padding-bottom: .5em;
 }
 
 .main-footer {
         border-radius:5px;
 	box-shadow: 1px 0px 0px rgba(52, 73, 94, 0.2);
-
 	background: whitesmoke;
 	padding: 2em 0;
 	margin-top: 0;
