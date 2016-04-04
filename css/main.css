@@ -15,31 +15,6 @@ body {
         min-height: 100vh;
         background: #fff;
       }
-      
-.row {  
-  flex: 1;
-  background: #fff;
-  padding-right: 1em;
-  padding-left: 1em;
-     }
-     
-.banner {
-	text-align: left;
-	color: #fff;
-	padding: 3.2em 0;
-	margin-bottom: 24px;
-	flex-direction: column;
-        background: whitesmoke;
-        }
-
-.banner-footer {
-	 background: whitesmoke;
-	 margin-top: 2em;
-	 margin-bottom: 0;
-	 padding-right: 1em;
-	 padding-left: 1em;
-	 color: lightgray;
-            }
 
 ul {
   margin: 0;
@@ -108,6 +83,7 @@ img {
 .main-header {
 	padding-top: .5em;
 	padding-bottom: .5em;
+	background: whitesmoke;
 }
 
 .main-footer {
@@ -117,7 +93,31 @@ img {
 	padding: 2em 0;
 	margin-top: 0;
 }
+      
+.row {  
+  flex: 1;
+  background: #fff;
+  padding-right: 1em;
+  padding-left: 1em;
+     }
+     
+.banner {
+	text-align: left;
+	color: #fff;
+	padding: 3.2em 0;
+	margin-bottom: 24px;
+	flex-direction: column;
+        background: whitesmoke;
+        }
 
+.banner-footer {
+	 background: whitesmoke;
+	 margin-top: 2em;
+	 margin-bottom: 0;
+	 padding-right: 1em;
+	 padding-left: 1em;
+	 color: lightgray;
+            }
 
 .gallery {
 	margin: 0;
