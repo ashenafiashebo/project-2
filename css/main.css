@@ -104,7 +104,7 @@ img {
 .banner {
 	text-align: left;
 	color: #fff;
-	padding: 3.2em;
+	padding: 3.2em 0 3.2em 6.4em ;
 	margin-bottom: 24px;
 	flex-direction: column;
         background: whitesmoke;
