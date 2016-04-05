@@ -265,8 +265,12 @@ img {
 	 flex: 2 1000px;
 	 justify-content: center;
          align-self: center;
-         margin-top: 100px;
   
+}
+.gallery-1,
+.gallery-2,
+.gallery-3 {
+	margin-top:100px;
 }
 
 .banner {
