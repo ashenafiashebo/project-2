@@ -196,7 +196,7 @@ img {
 .row {
      flex-wrap: wrap;
      flex-direction: column;
-     height: 1085px;
+     height: 2000px;
      align-items: center;
      align-self: auto;
     }
