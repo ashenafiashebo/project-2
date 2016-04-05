@@ -81,7 +81,7 @@ img {
 /* ---- Layout Containers ---- */
 
 .main-header {
-	width: 90%;
+
 	padding-top: .5em;
 	padding-bottom: .5em;
 	background: whitesmoke;
@@ -103,7 +103,6 @@ img {
      }
      
 .banner {
-	width: 90%;
 	text-align: left;
 	color: #fff;
 	padding-top: 3.2em ;
@@ -169,7 +168,8 @@ img {
 
 @media (min-width: 769px) {
 .main-header,
-.row{
+.row,
+.banner{
 	width: 80%;
 	margin: 0 auto;
 	}
