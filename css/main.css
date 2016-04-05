@@ -126,15 +126,15 @@ img {
 	 padding-right: 1em;
 	 padding-left: 1em;
 	 color: lightgray;
-	 border-radius: 35px;
-	 box-shadow: 0px 2px 0px rgba(1, 1, 1, 0.1);
+	 border-radius: gray solid 1.5px;
+	 
             }
 
 .gallery {
 
 	list-style: none;
        	flex-wrap: wrap;
-        justify-content: space-around;
+        justify-content: center;
 }
 
 .gallery li {
@@ -143,7 +143,7 @@ img {
 	padding: 15px;
 	margin: 5px;
 	border-radius: 3px;
-	width: 320px;
+	width: 300px;
 
 }
 
