@@ -176,7 +176,8 @@ img {
 @media (min-width: 769px) {
 .main-header,
 .row,
-.banner {
+.banner,
+.row-prtfolio {
 	width: 90%;
 	margin: 0 auto;
 	}
