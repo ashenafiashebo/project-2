@@ -247,11 +247,13 @@ img {
 .banner-footer p {
           text-align: center;
                 }
- h4{
-     	margin: auto;
+   h4{
+     	margin-left: auto;
+     	margin-right: auto;
      	justify-content: center;
      	text-align: center;
      	items-align: center;
+     	width: 660px;
      }
      
 
@@ -290,5 +292,12 @@ img {
         flex-direction: row;
         justify-content: space-between;
         }
- 
+ h4{
+     	margin-left: auto;
+     	margin-right: auto;
+     	justify-content: center;
+     	text-align: center;
+     	items-align: center;
+     	width: 990px;
+     }
 }
