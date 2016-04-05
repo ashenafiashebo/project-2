@@ -186,7 +186,7 @@ img {
 .banner-footer,
 .gallery li {
          display: flex;
-                }	
+            }	
 
 .main-header {
   flex-direction: column;
@@ -232,8 +232,9 @@ img {
          flex-direction: row;
          justify-content: space-around;
         }
-        .banner-image{
-        	margin-top: 20px;
+        
+.banner-image {
+       	margin-top: 20px;
         }
  
 .tagline {
