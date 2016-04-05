@@ -274,7 +274,7 @@ img {
            }
                 
 .row {
-	flex: 1.4 1000px;
+	flex: 1 975px;
 	flex-wrap: wrap;
         justify-content: space-around;
 }
