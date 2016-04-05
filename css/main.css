@@ -262,6 +262,9 @@ img {
                 
 .row {
 	flex: 1 1025px;
+	 justify-content: center;
+         align-self: center;
+  
 }
 
 .banner {
