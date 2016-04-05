@@ -169,7 +169,7 @@ img {
 .main-header,
 .row,
 .banner{
-	width: 80%;
+	width: 90%;
 	margin: 0 auto;
 	}
 	
@@ -243,8 +243,9 @@ img {
 ==================================== */
 @media (min-width: 1025px) {
 .main-header,
-.row {
-	width: 90%;
+.row,
+.banner {
+	width: 80%;
 	max-width: 1150px;
 	}
 
