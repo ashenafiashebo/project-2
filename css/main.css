@@ -81,6 +81,7 @@ img {
 /* ---- Layout Containers ---- */
 
 .main-header {
+	width: 90%;
 	padding-top: .5em;
 	padding-bottom: .5em;
 	background: whitesmoke;
