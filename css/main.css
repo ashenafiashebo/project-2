@@ -281,9 +281,9 @@ img {
         justify-content: space-between;
         }
         
-.gallery li{
-        	
-        	
+.gallery {
+         	
+        justify-content: space-around;	
         }
 
 }
