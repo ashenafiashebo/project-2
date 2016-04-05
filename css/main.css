@@ -132,7 +132,7 @@ img {
 	 padding-right: 1em;
 	 padding-left: 1em;
 	 color: lightgray;
-	 border-radius: gray 1.5px solid;
+	 border-radius: gray, 1.5px, solid;
 	 
             }
 
