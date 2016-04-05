@@ -108,7 +108,7 @@ img {
   background: #fff;
   padding-right: 1em;
   padding-left: 1em;
-  align-items: flex-end;
+  align-self: center;
      }
      
 .banner {
