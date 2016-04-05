@@ -202,7 +202,7 @@ img {
 .row {
      flex-wrap: wrap;
      flex-direction: column;
-     height: 1000px;
+     height: 1100px;
      justify-content: space-around;
      align-self: center;
   
@@ -261,7 +261,7 @@ img {
            }
                 
 .row {
-	flex: 1 1125px;
+	flex: 1 1000px;
 	 justify-content: center;
          align-self: center;
   
