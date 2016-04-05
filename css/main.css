@@ -103,14 +103,13 @@ img {
 	margin-top: 0;
              }
  .gallery-1 {
- 	margin-top: 20px;
+ 	margin-top: 110px;
  }
 .row-portfolio { 
   flex: 1;
   background: #fff;
   justify-content: center;
   align-self: center;
-	
 }
 .row {  
   flex: 1;
