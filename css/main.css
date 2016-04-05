@@ -107,6 +107,7 @@ img {
   flex: 1;
   background: #fff;
   justify-content: center;
+  align-self: center;
   
      }
      
