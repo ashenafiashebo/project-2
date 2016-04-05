@@ -260,10 +260,12 @@ img {
 
            }
                 
-.row {   flex-direction: row;
+.row {   
+	flex-direction: row;
 	 flex: 2 1000px;
 	 justify-content: center;
-         align-self: flex-end;
+         align-self: center;
+         margin:auto;
   
 }
 
