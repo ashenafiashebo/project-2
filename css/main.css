@@ -127,12 +127,6 @@ img {
 	 
             }
 
-.gallery {
-
-	list-style: none;
-       	flex-wrap: wrap;
-        justify-content: center;
-}
 
 .gallery li {
 	background-color: seagreen;
