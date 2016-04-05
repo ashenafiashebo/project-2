@@ -81,6 +81,7 @@ img {
 /* ---- Layout Containers ---- */
 
 .main-header {
+	margin-top: 0;
 
 	padding-top: .5em;
 	padding-bottom: .5em;
