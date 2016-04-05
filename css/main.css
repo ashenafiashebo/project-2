@@ -106,6 +106,8 @@ img {
 .row {  
   flex: 1;
   background: #fff;
+  justify-content: center;
+  
      }
      
 .banner {
