@@ -110,6 +110,7 @@ img {
   background: #fff;
   justify-content: center;
   align-self: center;
+  margin-top: 25px;
 }
 .row {  
   flex: 1;
