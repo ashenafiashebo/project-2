@@ -36,7 +36,12 @@ a {
 h2,
 h3 {
 	margin-top: 0;
-	margin-bottom: 50px;
+     }
+     
+     h4{
+     	margin-top: 0;
+     	margin-bottom: 20px ;
+     	justify-content: center;
      }
      
 h3{
