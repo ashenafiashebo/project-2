@@ -260,7 +260,7 @@ img {
 
            }
                 
-.row {
+.row {   flex-direction: column;
 	 flex: 2 2200px;
 	 justify-content: center;
          align-self: center;
