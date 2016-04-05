@@ -217,6 +217,11 @@ img {
              font-size: 1.4em;
 }
 
+.gallery-1,
+.gallery-2 {
+ margin-top: 100px;	
+}
+
 .gallery li p {
          text-align: center;
          color: gray;
