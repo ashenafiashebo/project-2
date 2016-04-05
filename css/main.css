@@ -134,7 +134,8 @@ img {
 	margin: 0;
 	padding: 0;
 	list-style: none;
-
+       	flex-wrap: wrap;
+        justify-content: space-around;
 }
 
 .gallery li {
@@ -278,10 +279,5 @@ img {
         flex-direction: row;
         justify-content: space-between;
         }
-        
-.gallery {
-       	flex-wrap: wrap;
-        justify-content: space-around;
-        }
-
+ 
 }
