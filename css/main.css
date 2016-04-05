@@ -223,11 +223,8 @@ img {
              font-size: 1.4em;
 }
 .gallery li {
-	flex-direction: column;
-	flex-wrap: wrap;
         align-self:auto;
-        justify-content: space-around;
-       
+     
                }
                
 .gallery li p {
