@@ -261,7 +261,7 @@ img {
            }
                 
 .row {
-	flex: 1 1000px;
+	 flex: 2 800px;
 	 justify-content: center;
          align-self: center;
   
