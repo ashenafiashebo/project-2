@@ -272,8 +272,6 @@ img {
                 
 .row {
 	flex: 1 975px;
-	flex-wrap: wrap;
-        justify-content: space-around;
 }
 
 .banner {
@@ -282,8 +280,8 @@ img {
         }
         
 .gallery {
-        flex-wrap: wrap;	
-        justify-content: space-around;	
+       	flex-wrap: wrap;
+        justify-content: space-around;
         }
 
 }
