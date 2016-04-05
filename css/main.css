@@ -126,7 +126,6 @@ img {
 }
 
 .gallery li {
-	display:flex;
 	background-color: red;
 	color: #bdc3c7;
 	padding: 15px;
@@ -177,7 +176,8 @@ img {
 .row,
 .banner,
 .main-footer,
-.banner-footer {
+.banner-footer,
+.gallery li {
          display: flex;
                 }	
 
@@ -212,8 +212,8 @@ img {
 	flex-direction: column;
 	flex-wrap: wrap;
         align-self:auto;
-        justify-content: space-between;
-        width: 325px;
+        justify-content: space-around;
+       
                }
                
 .gallery li p {
