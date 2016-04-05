@@ -244,6 +244,13 @@ img {
 .banner-footer p {
           text-align: center;
                 }
+ h4{
+     	margin: auto;
+     	justify-content: center;
+     	text-align: center;
+     	items-align: center;
+     }
+     
 
 }
 /* ================================= 
