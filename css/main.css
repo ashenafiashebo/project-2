@@ -106,9 +106,6 @@ img {
 .row {  
   flex: 1;
   background: #fff;
- 
-  justify-content: center; 
-
      }
      
 .banner {
@@ -126,7 +123,7 @@ img {
 	 padding-right: 1em;
 	 padding-left: 1em;
 	 color: lightgray;
-	 border-radius: gray solid 1.5px;
+	 border-radius: gray 1.5px solid;
 	 
             }
 
@@ -143,7 +140,7 @@ img {
 	padding: 15px;
 	margin: 5px;
 	border-radius: 3px;
-	width: 300px;
+	width: 3250px;
 
 }
 
@@ -208,7 +205,7 @@ img {
 .row {
      flex-wrap: wrap;
      flex-direction: column;
-     height: 2000px;
+     height: 10850px;
     
      align-self: auto;
      align-self: flex-end;
