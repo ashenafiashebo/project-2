@@ -104,10 +104,8 @@ img {
      }
      
 .banner {
-	text-align: left;
 	color: #fff;
 	padding-top: 3.2em 0;
-
 	margin-bottom: 24px;
 	flex-direction: column;
         background: whitesmoke;
@@ -189,6 +187,7 @@ img {
 .main-header {
   flex-direction: column;
   align-items: center;
+  justify-content: space-around;
              }
 
 .main-footer{
