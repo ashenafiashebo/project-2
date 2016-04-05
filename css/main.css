@@ -226,6 +226,9 @@ img {
          flex-direction: row;
          justify-content: space-around;
         }
+        .banner-image{
+        	margin-top: 20px;
+        }
  
 .tagline {
           order: -1;
