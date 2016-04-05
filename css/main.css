@@ -106,8 +106,7 @@ img {
 .row {  
   flex: 1;
   background: #fff;
-  padding-right: 1em;
-  padding-left: 1em;
+ 
   justify-content: center; 
 
      }
@@ -145,7 +144,7 @@ img {
 	margin: 5px;	
 	border-radius: 3px;
 	width: 320px;
-	align-items: center:
+
 }
 
 .gallery li a p {
