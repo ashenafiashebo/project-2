@@ -204,8 +204,9 @@ img {
      flex-wrap: wrap;
      flex-direction: column;
      height: 2000px;
-     align-items: center;
+    
      align-self: auto;
+     align-self: flex-end;
     }
 
 .banner-footer{
