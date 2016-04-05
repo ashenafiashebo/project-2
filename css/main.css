@@ -201,7 +201,7 @@ img {
 
 .row {
      flex-wrap: wrap;
-     flex-direction: column;
+     flex-direction: row;
      height: 1100px;
      justify-content: space-around;
      align-self: center;
