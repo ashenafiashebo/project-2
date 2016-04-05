@@ -223,11 +223,7 @@ img {
              color: gray;	
              font-size: 1.4em;
 }
-.gallery li {
-        align-self:auto;
-     
-               }
-               
+
 .gallery li p {
          text-align: center;
          color: gray;
