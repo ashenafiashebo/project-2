@@ -147,6 +147,7 @@ img {
 
 .banner-image {
         min-width: 100%;
+        padding-right:10px;
         margin: 2em auto;
         border-radius: 3px;
         box-shadow: 0px 1px 0px rgba(52, 73, 94, 0.2);
@@ -154,6 +155,7 @@ img {
  
 .tagline {
 	max-width: 50%;
+	padding-left: 10px;
 	color: gray;
 }
 /* ================================= 
