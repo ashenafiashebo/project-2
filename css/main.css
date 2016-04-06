@@ -115,19 +115,19 @@ img {
  
 }
 .container {
-  margin: 45px auto;
   padding: 10px;
   background: #fff;
   border-radius: 5px;
+  margin: 45px auto;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 }
-
 .skill {
-	padding: 15px;
 	color: #fff;
-	border-radius: 3px;
+	padding: 15px;
+	margin: 5px;	
 	background: #3db5da;
-	}
+	border-radius: 3px;
+}
 .row {  
   flex: 1;
   background: #fff;
@@ -227,8 +227,8 @@ img {
 	justify-content: space-between;
               }
 
-.row,
-.container {
+.row
+{
      flex-wrap: wrap;
      flex-direction: row;
      height: 1100px;
@@ -298,8 +298,7 @@ img {
 
            }
                 
-.row,
-.container {   
+.row {   
 	flex-direction: row;
 	 flex: 2 800px;
 	 justify-content: center;
