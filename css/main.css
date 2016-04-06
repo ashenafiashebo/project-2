@@ -86,7 +86,7 @@ img {
 	text-transform: uppercase;
 	background: #fff;
             }
- .main-nav li{
+ .main-nav li a {
          	background: #fff;
             }
             
