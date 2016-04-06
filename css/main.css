@@ -266,9 +266,12 @@ img {
     }
     
  .container {
- 	flex-wrap: wrap;
- 	height: 450px;
- 	align-items: stretch;
+     flex-wrap: wrap;
+     flex-direction: row;
+     height: 1100px;
+     justify-content: space-around;
+     align-self: center;
+  
  }
 
 .banner-footer{
