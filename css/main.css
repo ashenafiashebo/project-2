@@ -125,20 +125,23 @@ img {
 	padding: 15px;
 	color: #fff;
 	border-radius: 20px;
-	margin: auto;
+	
 
 }
 
 .skill-1{
 	background: seagreen;
+	margin: auto;
 }
 
 .skill-2 {
 	background: yellow;
+	margin: auto;
 }
 
 .skill-3 {
 	background: red;
+	margin: auto;
 }
 .row {  
   flex: 1;
