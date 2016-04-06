@@ -114,6 +114,13 @@ img {
   align-self: center;
  
 }
+.skill{
+  margin: 45px auto;
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+}
 .row {  
   flex: 1;
   background: #fff;
