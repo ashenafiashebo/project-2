@@ -122,7 +122,8 @@ img {
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 }
 
-.skill {padding: 15px;
+.skill {
+	padding: 15px;
 	color: #fff;
 	border-radius: 3px;
 	background: #3db5da;
@@ -195,7 +196,8 @@ img {
 .main-header,
 .row,
 .banner,
-.row-prtfolio {
+.row-prtfolio,
+.container {
 	width: 90%;
 	margin: 0 auto;
 	}
@@ -210,7 +212,7 @@ img {
 .main-footer,
 .banner-footer,
 .gallery,
-.skill{
+.container {
          display: flex;
             }	
 
@@ -225,7 +227,8 @@ img {
 	justify-content: space-between;
               }
 
-.row {
+.row,
+.container {
      flex-wrap: wrap;
      flex-direction: row;
      height: 1100px;
@@ -283,7 +286,8 @@ img {
 .main-header,
 .row,
 .banner,
-.row-prtfolio {
+.row-prtfolio,
+.container {
 	width: 80%;
 	max-width: 1150px;
 	}
@@ -294,7 +298,8 @@ img {
 
            }
                 
-.row {   
+.row,
+.container {   
 	flex-direction: row;
 	 flex: 2 800px;
 	 justify-content: center;
