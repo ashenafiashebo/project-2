@@ -139,7 +139,7 @@ img {
 
 
 .gallery li {
-	background-color: seagreen;
+	background-color: #fff;
 	color: #bdc3c7;
 	padding: 15px;
 	margin: 5px;
@@ -162,7 +162,7 @@ img {
         padding-right:10px;
         margin: 2em auto;
         border-radius: 3px;
-        box-shadow: 1px 1px 1px rgba(52, 73, 94, 0.2);
+        box-shadow: 1px 0px 0px rgba(52, 73, 94, 0.2);
         }
  
 .tagline {
@@ -264,7 +264,8 @@ img {
 @media (min-width: 1025px) {
 .main-header,
 .row,
-.banner {
+.banner,
+.row-prtfolio {
 	width: 80%;
 	max-width: 1150px;
 	}
