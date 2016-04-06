@@ -86,6 +86,9 @@ img {
 	text-transform: uppercase;
 	background: #fff;
             }
+ .main-nav li{
+         	background: #fff;
+            }
             
 .main-nav a:hover {
 	color: #093a58;
