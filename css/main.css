@@ -125,8 +125,6 @@ img {
 	padding: 15px;
 	color: #fff;
 	border-radius: 20px;
-	
-
 }
 
 .skill-1{
@@ -266,6 +264,12 @@ img {
      align-self: center;
   
     }
+    
+ .container {
+ 	flex-wrap: wrap;
+ 	height: 450px;
+ 	align-items: stretch;
+ }
 
 .banner-footer{
 	     flex-direction: column
