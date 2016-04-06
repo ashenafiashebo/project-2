@@ -51,6 +51,7 @@ h3{
   
 a {
 	text-decoration: none;
+	background: #fff;
    }
    
 img {
@@ -84,12 +85,9 @@ img {
 	font-size: .95em;
 	color:  #3a3a3a;
 	text-transform: uppercase;
-	background: #fff;
+
             }
- .main-nav li a {
-         	background: #fff;
-            }
-            
+
 .main-nav a:hover {
 	color: #093a58;
 }
