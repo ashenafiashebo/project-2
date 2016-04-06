@@ -70,7 +70,7 @@ img {
       
 .main-nav {
 	margin-top: 5px;
-	background: #fff;
+
      }
      
 .name a,
@@ -84,6 +84,7 @@ img {
 	font-size: .95em;
 	color:  #3a3a3a;
 	text-transform: uppercase;
+	background: #fff;
             }
             
 .main-nav a:hover {
