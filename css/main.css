@@ -127,6 +127,18 @@ img {
 	border-radius: 3px;
 	background: #3db5da;
 }
+
+.skill-1{
+	background: seagreen;
+}
+
+.skill-2 {
+	background: yellow;
+}
+
+.skill-3 {
+	background: red;
+}
 .row {  
   flex: 1;
   background: #fff;
