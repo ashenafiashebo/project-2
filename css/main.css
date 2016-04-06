@@ -305,9 +305,9 @@ img {
   
 }
 .container {
-	display: flex;
+	flex-direction: column;
 	flex-wrap: wrap;
-  height: 450px;
+        height: 450px;
 }
 .skill {
   flex: 1;
