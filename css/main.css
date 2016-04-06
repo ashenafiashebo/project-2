@@ -114,13 +114,19 @@ img {
   align-self: center;
  
 }
-.skill{
+.container {
   margin: 45px auto;
   padding: 10px;
   background: #fff;
   border-radius: 5px;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 }
+
+.skill {padding: 15px;
+	color: #fff;
+	border-radius: 3px;
+	background: #3db5da;
+	}
 .row {  
   flex: 1;
   background: #fff;
