@@ -317,7 +317,7 @@ img {
   
 }
 .container {
-	flex-direction: column;
+	flex-direction: row;
 	flex-wrap: wrap;
         height: 450px;
 }
