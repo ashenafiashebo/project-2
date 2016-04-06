@@ -309,6 +309,12 @@ img {
          align-self: center;
   
 }
+.container{
+	 flex-direction: row;
+	 flex: 2 1600px;
+	 justify-content: center;
+         align-self: center;
+}
 .gallery-1,
 .gallery-2,
 .gallery-3 {
