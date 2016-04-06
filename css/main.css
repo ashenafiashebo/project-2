@@ -38,7 +38,7 @@ h3 {
 	margin-top: 0;
      }
      
-     h4{
+     h4 {
      	justify-content: center;
      	text-align: center;
      	items-align: center;
@@ -79,6 +79,7 @@ img {
 	text-align: center;
 	display: block;
 	padding: 10px 15px;
+	background: #fff;
       }
       
 .main-nav a {
