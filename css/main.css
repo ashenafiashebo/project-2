@@ -304,11 +304,23 @@ img {
          align-self: center;
   
 }
-.container{
-	 flex-direction: row;
+.container {
+	display: flex;
+	flex-wrap: wrap;
+  height: 450px;
+}
+.skill {
+  flex: 1;
+}
+.skill-1 {
+  align-self: flex-end;
+  }
+.skill-2 {
+  flex: 2;
+}
 
-	 justify-content: center;
-         align-self: center;
+.skill-4 {
+  align-self: center;
 }
 .gallery-1,
 .gallery-2,
