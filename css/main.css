@@ -22,7 +22,7 @@ ul {
   list-style: none;
 }
 
-.main-nav li{
+.nav li a {
 	background: #fff;
 }
 
