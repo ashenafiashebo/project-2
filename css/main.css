@@ -196,7 +196,8 @@ img {
 .banner,
 .main-footer,
 .banner-footer,
-.gallery {
+.gallery,
+.skill{
          display: flex;
             }	
 
