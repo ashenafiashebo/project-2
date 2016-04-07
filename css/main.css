@@ -106,7 +106,6 @@ img {
 	padding: 2em 0;
 	margin-top: 0;
 	border-top: 1px solid lightgray;
-	width: 90%;
              }
 
 .row-portfolio { 
@@ -180,8 +179,6 @@ img {
 	 padding-right: 1em;
 	 padding-left: 1em;
 	 color: lightgray;
-	 border-radius: gray, 1.5px, solid;
-	 
             }
 
 
@@ -226,7 +223,8 @@ img {
 .row,
 .banner,
 .row-prtfolio,
-.container {
+.container,
+.main-footer {
 	width: 90%;
 	margin: 0 auto;
 	}
@@ -325,7 +323,8 @@ img {
 .row,
 .banner,
 .row-prtfolio,
-.container {
+.container,
+.main-footer {
 	width: 80%;
 	max-width: 1150px;
 	}
