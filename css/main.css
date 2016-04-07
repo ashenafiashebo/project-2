@@ -368,10 +368,10 @@ img {
         justify-content: space-between;
         }
  h4{
-     
+     	margin-left: auto;
+     	margin-right: auto;
      	justify-content: center;
-     	
      	items-align: center;
-     	width: 90%;
+     	width: 885.594px;
      }
 }
