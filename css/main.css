@@ -306,7 +306,8 @@ img {
           text-align: center;
                 }
    h4{
-     
+     	margin-left: auto;
+     	margin-right: auto;
      	justify-content: center;
      	items-align: center;
      	width: 885.594px%;
