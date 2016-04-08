@@ -320,6 +320,13 @@ ul.main-nav li
      	width: 885.594px;
      }
      
+     ul.main-nav li 
+{
+  padding:.5em;
+  margin:.5em;
+  background-color:whitesmoke;
+}
+     
 
 }
 /* ================================= 
@@ -380,4 +387,11 @@ ul.main-nav li
      	items-align: center;
      	width: 1025px;
      }
+     
+          ul.main-nav li 
+{
+  padding:.5em;
+  margin:.5em;
+  background-color:whitesmoke;
+}
 }
