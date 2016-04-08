@@ -71,9 +71,9 @@ img {
       }
 ul.main-nav li 
 {
-   padding:1px;
-  margin:1px;
-  background-color:blue;
+   padding:2px;
+  margin:2px;
+  background-color:#fff;
 }
 
 .main-nav {
