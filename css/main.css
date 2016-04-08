@@ -42,7 +42,7 @@ h3 {
      	text-align: center;
      	justify-content: center;
      	items-align: center;
-     	width: 320px;
+     	width: 324px;
      	
      }
      
@@ -69,7 +69,13 @@ img {
 	font-size: 1.35em;
 	margin: 0;
       }
-      
+ul.nav li
+{
+  padding:1em;
+  margin:1em;
+  background-color:blue;
+}
+
 .main-nav {
 	margin-top: 5px;
 
