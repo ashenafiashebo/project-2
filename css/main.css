@@ -165,7 +165,7 @@ ul.main-nav-footer li
 	margin-top: 0;
 	background: white;
 	flex-direction: row;
-	justify-content: space-around;
+	justify-content: stretch;
 	
 
              }
