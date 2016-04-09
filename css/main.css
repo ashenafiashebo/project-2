@@ -295,6 +295,10 @@ body {
    background: gray;
     }
     
+    .row-prtfolio{
+    	background: gray;
+    }
+    
  .container {
      flex-wrap: wrap;
      flex-direction: row;
@@ -311,8 +315,8 @@ body {
 	      background: gray;
 }
 
-.banner-footer h3 {
-             color: gray;	
+.banner-footer h4 {
+             color: black;	
              font-size: 1.4em;
 }
 
