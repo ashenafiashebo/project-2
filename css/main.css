@@ -131,6 +131,13 @@ ul.main-nav li
 	text-transform: uppercase;
 
             }
+ .main-nav-footer a {
+	font-size: .95em;
+	color:  #3a3a3a;
+	text-transform: uppercase;
+
+            }
+
 
 .main-nav a:hover {
 	color: #093a58;
