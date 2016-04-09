@@ -131,6 +131,7 @@ ul.main-nav li
   border-radius: 5px;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 }
+
 .skill {
 	padding: 15px;
 	color: #fff;
@@ -226,7 +227,7 @@ ul.main-nav li
 	color: gray;
 	padding-right: 1em;
 	padding-left: 1em;
-	text-align: center;
+	text-align: left;
           }
 /* ================================= 
   Media Queries
