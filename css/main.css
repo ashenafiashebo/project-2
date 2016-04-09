@@ -94,12 +94,11 @@ ul.main-nav-footer li
 }
 
 ul.main-nav-footer li a {
-	width: 100px;
 
 	font-size: 1em;
 	text-transform: uppercase;
 	color: black;
-	margin-left: 225px;
+	margin-left: 125px;
 	
        }
 .main-nav {
