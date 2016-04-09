@@ -81,14 +81,14 @@ img {
       
 ul.main-nav li 
 {
-
+  padding:.5em;
+  margin:.5em;
   background-color:#fff;
 }
 
 ul.main-nav-footer li 
 {
-  padding:.5em;
-  margin:.5em;
+;
   background-color:white;
 }
 
