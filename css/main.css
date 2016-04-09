@@ -76,6 +76,7 @@ img {
 .name-footer {
 	font-size: 1.35em;
 	margin: 0;
+	justify-content: space-around;
       }  
       
 ul.main-nav li 
