@@ -346,16 +346,13 @@ ul.main-nav li
 .row,
 .container,
 .main-footer,
+.main-header,
+.banner,
+.row-portfolio 
  {
 	width: 80%;
 	max-width: 1150px;
 	}
-.main-header,
-.banner,
-.row-portfolio {
-	width: 70%;
-}
-
 
 .main-header {
             flex-direction: row;
