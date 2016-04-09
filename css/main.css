@@ -95,7 +95,13 @@ ul.main-nav-footer li
 
 ul.main-nav-footer li a {
 	width: 100px;
-}
+
+	font-size: 1em;
+	text-transform: uppercase;
+	color: black;
+	margin-left: 225px;
+	
+       }
 .main-nav {
 	margin-top: 5px;
 
@@ -125,17 +131,6 @@ ul.main-nav-footer li a {
 	text-transform: uppercase;
 
             }
-            
-                  
-.main-nav-footer a {
-	font-size: 1em;
-	text-transform: uppercase;
-	color: black;
-	margin-left: 225px;
-	margin-top: -115px;
-
-            }
-
 
 .main-nav a:hover {
 	color: #093a58;
