@@ -342,14 +342,20 @@ ul.main-nav li
 ==================================== */
 @media (min-width: 1025px) {
 .main-header,
-.row,
-.banner,
+
+
 .container,
 .main-footer,
-.row-prtfolio {
-	width: 70%;
+ {
+	width: 80%;
 	max-width: 1150px;
 	}
+.row,
+.banner,
+.row-prtfolio {
+	width: 70%;
+}
+
 
 .main-header {
             flex-direction: row;
