@@ -38,7 +38,7 @@ h3 {
 	margin-top: 0;
      }
      
-     h4 {
+h4 {
      	text-align: center;
      	justify-content: center;
      	items-align: center;
@@ -71,7 +71,7 @@ img {
       }
 ul.main-nav li 
 {
-   padding:.5em;
+  padding:.5em;
   margin:.5em;
   background-color:#fff;
 }
@@ -116,11 +116,14 @@ ul.main-nav li
              }
 
 .row-portfolio { 
+	 margin: 45px auto;
+  padding: 10px;
   background: #fff;
   justify-content: center;
   align-self: center;
  
 }
+
 .container {
   margin: 45px auto;
   padding: 10px;
