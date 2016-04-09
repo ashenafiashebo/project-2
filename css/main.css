@@ -341,8 +341,9 @@ ul.main-nav li
   Media Queries
 ==================================== */
 @media (min-width: 1025px) {
-
-{
+.body {
+	background:#fff;
+}
 .row,
 .container,
 .main-footer,
