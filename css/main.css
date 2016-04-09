@@ -74,7 +74,7 @@ img {
       }
    
 .name-footer {
-	font-size: 1em;
+	font-size: 1.35em;
 	margin: 0;
 	
       }  
@@ -118,7 +118,7 @@ ul.main-nav-footer li
 .main-nav-footer a {
 
 	display: inline-block;
-	padding: 5px 5px;
+	padding: 10px 15px;
 
       }
       
