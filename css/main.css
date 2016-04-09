@@ -239,7 +239,8 @@ ul.main-nav li
 .banner,
 .row-prtfolio,
 .container,
-.main-footer {
+.main-footer,
+.banner-footer {
 	width: 90%;
 	margin: 0 auto;
 	}
