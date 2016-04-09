@@ -117,8 +117,8 @@ ul.main-nav li
 	background: #fff;
 	padding: 2em 0;
 	margin-top: 0;
-	border-top: 1px solid lightgray;
-	width: 100%;
+	
+	width: 90%;
 
              }
 
@@ -210,6 +210,7 @@ ul.main-nav li
 	 width:90%;
 	 justify-content: center;
          align-self: center;
+         border-bottom: 1px solid lightgray;
             }
 
 
