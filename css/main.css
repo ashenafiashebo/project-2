@@ -443,5 +443,7 @@ body {
   margin:.5em;
   background-color:gray;
    }
-   
+   .banner-image{
+   	margin-top: 20px;
+   }
 }
