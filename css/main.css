@@ -168,6 +168,7 @@ ul.main-nav-footer li
 	justify-content: space-between;
 	width: 90%;
         border-top: 1px solid lightgray;
+        padding-right: 2em;
              }
 
 .row-portfolio { 
