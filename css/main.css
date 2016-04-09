@@ -72,6 +72,11 @@ img {
 	font-size: 1.35em;
 	margin: 0;
       }
+   
+.name-footer {
+	font-size: 1.35em;
+	margin: 0;
+      }   
 ul.main-nav li 
 {
   padding:.5em;
@@ -79,13 +84,37 @@ ul.main-nav li
   background-color:#fff;
 }
 
+ul.main-nav-footer li 
+{
+  padding:.5em;
+  margin:.5em;
+  background-color:#fff;
+}
+
+
 .main-nav {
 	margin-top: 5px;
 
      }
      
+     .main-nav-footer {
+	margin-top: 5px;
+
+     }
+     
+     
 .name a,
 .main-nav a {
+	text-align: center;
+	display: block;
+	padding: 10px 15px;
+
+      }
+      
+           
+     
+.name-footer a,
+.main-nav-footer a {
 	text-align: center;
 	display: inlineblock;
 	padding: 10px 15px;
@@ -98,10 +127,24 @@ ul.main-nav li
 	text-transform: uppercase;
 
             }
+            
+                  
+.main-nav-footer a {
+	font-size: .95em;
+	color:  #3a3a3a;
+	text-transform: uppercase;
+
+            }
+
 
 .main-nav a:hover {
 	color: #093a58;
 }
+
+
+
+.main-nav-footer a:hover {
+	color: #093a58;
 
 /* ---- Layout Containers ---- */
 
