@@ -122,9 +122,10 @@ ul.main-nav li
 
 .row-portfolio { 
   margin: auto;
-  background: #fff;
+  background: gray;
   justify-content: center;
   align-self: center;
+  
  
 }
 
@@ -295,9 +296,6 @@ body {
    background: gray;
     }
     
-    .row-prtfolio{
-    	background: gray;
-    }
     
  .container {
      flex-wrap: wrap;
