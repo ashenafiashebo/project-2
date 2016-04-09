@@ -45,7 +45,7 @@ h4 {
      	width: 330px;
      	font-size: 1em;
 	margin-bottom: 1.8em;
-	color: black;
+	color: gray;
      	
      }
      
@@ -336,7 +336,7 @@ body {
      	items-align: center;
      	width: 885.594px;
      	font-size: 1.4em;
-     
+        color: gray;
 	margin-bottom: 0;
      }
      
