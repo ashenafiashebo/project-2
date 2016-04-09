@@ -329,6 +329,7 @@ body {
 .banner {
          flex-direction: row;
          justify-content: space-around;
+          background: gray;
         }
 
 .tagline {
@@ -342,7 +343,7 @@ body {
      	items-align: center;
      	width: 885.594px;
      	font-size: 1.4em;
-        color: gray;
+        color: black;
 	margin-bottom: 0;
      }
      
