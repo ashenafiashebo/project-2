@@ -160,15 +160,13 @@ ul.main-nav-footer li
 
 .main-footer {
 
-	padding: 2em 0;
+	padding:  0;
 	margin-top: 0;
 	background: white;
-	display: inline-block;
+
 	flex-direction: row;
 	justify-content: space-between;
 
-       
-       
              }
 
 .row-portfolio { 
@@ -177,8 +175,6 @@ ul.main-nav-footer li
   justify-content: center;
   align-self: center;
 
-  
- 
 }
 
 .container {
