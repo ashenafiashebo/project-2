@@ -109,12 +109,15 @@ ul.main-nav li
             }
 
 .main-footer {
-	background: whitesmoke;
+	background: #fff;
 	padding: 2em 0;
 	margin-top: 0;
 	border-top: 1px solid lightgray;
 
              }
+ .banner-footer {
+ 	background: #fff;
+ }
 
 .row-portfolio { 
   margin: auto;
