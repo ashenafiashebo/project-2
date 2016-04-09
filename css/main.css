@@ -223,6 +223,8 @@ ul.main-nav li
 	max-width: 50%;
 	padding-left: 10px;
 	color: gray;
+	padding-right: 1em;
+	padding-left: 1em;
 }
 /* ================================= 
   Media Queries
