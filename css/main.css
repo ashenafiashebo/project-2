@@ -45,7 +45,7 @@ h4 {
      	width: 330px;
      	font-size: 1em;
 	margin-bottom: 1.8em;
-	color: white;
+	color: gray;
      	
      }
      
@@ -311,11 +311,12 @@ body {
 	     flex-direction: column
 	     justify-content: space-between;
 	     flex-wrap: wrap;
-	      background: gray;
+	     background: gray;
+	     color: white;
 }
 
 .banner-footer h4 {
-             color: black;	
+             color: #fff;	
              font-size: 1.4em;
 }
 
