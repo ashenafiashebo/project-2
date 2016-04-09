@@ -214,6 +214,7 @@ ul.main-nav li
 .banner-image {
         min-width: 100%;
         padding-right:10px;
+        padding-left:10px;
         margin: 2em auto;
         border-radius: 3px;
         box-shadow: 1px 0px 0px rgba(52, 73, 94, 0.2);
