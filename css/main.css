@@ -155,7 +155,7 @@ ul.main-nav li
 	padding: 2em 0;
 	margin-bottom: 0;
 	background: white;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: space-between;
 
              }
