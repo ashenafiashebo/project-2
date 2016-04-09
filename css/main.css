@@ -126,9 +126,10 @@ ul.main-nav-footer li
             
                   
 .main-nav-footer a {
-	font-size: .95em;
+	font-size: 1em;
 	text-transform: uppercase;
 	color: black;
+	margin-left: auto;
 
             }
 
