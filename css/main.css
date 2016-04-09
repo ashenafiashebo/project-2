@@ -129,7 +129,6 @@ ul.main-nav-footer li
                   
 .main-nav-footer a {
 	font-size: .5em;
-
 	text-transform: uppercase;
 
             }
@@ -160,8 +159,7 @@ ul.main-nav-footer li
 	padding: 2em 0;
 	margin-bottom: 0;
 	background: white;
-
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: space-between;
 
              }
