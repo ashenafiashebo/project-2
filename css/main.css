@@ -376,7 +376,7 @@ body {
 ==================================== */
 @media (min-width: 1025px) {
 body {
-	background:gray;
+	background:lightgray;
 }
 
 .row,
@@ -395,6 +395,7 @@ body {
 	    margin-top: 15px;
             flex-direction: row;
             justify-content: space-between;
+            background: lightgray;
 
            }
                 
@@ -403,6 +404,7 @@ body {
 	flex: 2 800px;
 	 justify-content: center;
          align-self: center;
+         background: lightgray;
   
       }
       
@@ -410,6 +412,7 @@ body {
 	flex-direction: row;
 	flex-wrap: wrap;
         height: 850px;
+        background: lightgray;
 }
 .skill {
   flex: 1;
@@ -431,6 +434,7 @@ body {
 .banner {
         flex-direction: row;
         justify-content: space-between;
+        background: lightgray;
         }
         
  h4  {
@@ -445,7 +449,7 @@ body {
    {
   padding:.5em;
   margin:.5em;
-  background-color:gray;
+  background-color:background: lightgray;;
    }
    
 }
