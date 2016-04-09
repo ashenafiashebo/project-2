@@ -298,6 +298,7 @@ body {
 
 .banner-footer{
 	     flex-direction: column
+	     justify-content: space-between;
 }
 
 .banner-footer h3 {
@@ -326,6 +327,7 @@ body {
 
 .banner-footer p {
           text-align: center;
+          
                 }
  h4{
      	margin-left: auto;
