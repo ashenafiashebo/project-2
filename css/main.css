@@ -408,6 +408,18 @@ body {
   
       }
       
+  .row-portfolio { 
+  margin: auto;
+  background: lightgray;
+  justify-content: center;
+  align-self: center;
+  
+ 
+}
+.banner-footer {
+	background: lightgray;
+}
+      
 .container {
 	flex-direction: row;
 	flex-wrap: wrap;
