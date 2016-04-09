@@ -117,7 +117,7 @@ ul.main-nav-footer li
 .name-footer a,
 .main-nav-footer a {
 
-	justify-content: space-between;
+	
 	padding: 5px 5px;
 
       }
@@ -164,7 +164,7 @@ ul.main-nav-footer li
 	margin-top: 0;
 	background: white;
 	flex-direction: row;
-	justify-content: stretch;
+	justify-content: space-between;
 	
 
              }
