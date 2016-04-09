@@ -142,6 +142,10 @@ ul.main-nav li
 	color: #fff;
 	border-radius: 20px;
 	width: 320px;
+	margin: auto;
+       background: #fff;
+       justify-content: center;
+       align-self: center;
 }
 
 .skill-1{
