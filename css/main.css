@@ -79,21 +79,21 @@ img {
 	
       }  
       
-ul.main-nav li 
+ul.main-nav li
 {
   padding:.5em;
   margin:.5em;
   background-color:#fff;
 }
 
-ul.main-nav-footer li 
+.main-nav-footer  
 {
   padding:.5em;
   margin:.5em;
   background-color:white;
 }
 
-ul.main-nav-footer li a {
+.main-nav-footer a {
 
 	font-size: 1em;
 	text-transform: uppercase;
