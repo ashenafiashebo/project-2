@@ -87,7 +87,7 @@ ul.main-nav li
 .name a,
 .main-nav a {
 	text-align: center;
-	display: block;
+	display: inlineblock;
 	padding: 10px 15px;
 
       }
