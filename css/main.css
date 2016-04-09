@@ -365,7 +365,9 @@ body {
   background-color:gray;
 }
  .banner-image {
-   padding-bottom: 35px;	
+ 	padding-top: 15px;
+ 	margin-top: 15px;
+        padding-bottom: 15px;	
    }  
 
 }
@@ -445,7 +447,5 @@ body {
   margin:.5em;
   background-color:gray;
    }
-   .banner-image{
-   	margin-top: 15px;
-   }
+   
 }
