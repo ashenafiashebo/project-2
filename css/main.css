@@ -259,7 +259,7 @@ body {
 	
 .tagline {
 	font-size: 1.4em;
-	color: white;
+	color: black;
 	}
 .main-header, 
 .main-nav,
@@ -299,7 +299,7 @@ body {
     
   .row-portfolio { 
   margin: auto;
-  background: #fff;
+  background: gray;
   justify-content: center;
   align-self: center;
   } 
@@ -310,7 +310,7 @@ body {
      height: 1100px;
      justify-content: space-around;
      align-self: center;
-   background: gray;
+     background: gray;
  }
 
 .banner-footer{
@@ -344,7 +344,6 @@ body {
 
 .tagline {
           order: -1;
-          color: #fff;
          }
 
  h4{
