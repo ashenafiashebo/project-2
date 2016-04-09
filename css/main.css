@@ -88,7 +88,8 @@ ul.main-nav li
 
 ul.main-nav-footer li 
 {
-
+  padding:.5em;
+  margin:.5em;
   background-color:white;
 }
 
@@ -125,8 +126,9 @@ ul.main-nav-footer li
             
                   
 .main-nav-footer a {
-	font-size: .5em;
+	font-size: .95em;
 	text-transform: uppercase;
+	color: black;
 
             }
 
