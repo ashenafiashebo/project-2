@@ -212,7 +212,7 @@ ul.main-nav li
 /* ---- Page Elements ---- */
 
 .banner-image {
-        max-width: 50%;
+        max-width: 100%;
         padding-right:10px;
         padding-left:10px;
         margin: 2em auto;
@@ -221,7 +221,7 @@ ul.main-nav li
         }
  
 .tagline {
-	max-width: 100%;
+	max-width: 50%;
 	padding-left: 10px;
 	color: gray;
 	padding-right: 1em;
