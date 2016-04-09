@@ -312,7 +312,7 @@ ul.main-nav li
 .banner-footer p {
           text-align: center;
                 }
-   h4{
+ h4{
      	margin-left: auto;
      	margin-right: auto;
      	justify-content: center;
@@ -320,8 +320,8 @@ ul.main-nav li
      	width: 885.594px;
      }
      
-     ul.main-nav li 
-{
+ ul.main-nav li 
+  {
   padding:.5em;
   margin:.5em;
   background-color:whitesmoke;
@@ -380,7 +380,7 @@ ul.main-nav li
         flex-direction: row;
         justify-content: space-between;
         }
- h4{
+ h4  {
      	margin-left: auto;
      	margin-right: auto;
      	justify-content: center;
@@ -388,10 +388,10 @@ ul.main-nav li
      	width: 1025px;
      }
      
-          ul.main-nav li 
-{
+ ul.main-nav li 
+   {
   padding:.5em;
   margin:.5em;
   background-color:whitesmoke;
-}
+   }
 }
