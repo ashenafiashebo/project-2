@@ -344,12 +344,14 @@ ul.main-nav li
 body {
 	background:#fff;
 }
+
 .row,
 .container,
 .main-footer,
 .main-header,
 .banner,
-.row-portfolio 
+.row-portfolio,
+.banner-footer
  {
 	width: 80%;
 	max-width: 1150px;
@@ -367,7 +369,8 @@ body {
 	 justify-content: center;
          align-self: center;
   
-}
+      }
+      
 .container {
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -376,12 +379,14 @@ body {
 .skill {
   flex: 1;
 }
+
 .skill-1,
 .skill-2,
 .skill-3
  {
   align-self: center;
-}
+ }
+
 .gallery-1,
 .gallery-2,
 .gallery-3 {
@@ -392,6 +397,7 @@ body {
         flex-direction: row;
         justify-content: space-between;
         }
+        
  h4  {
      	margin-left: auto;
      	margin-right: auto;
@@ -406,4 +412,5 @@ body {
   margin:.5em;
   background-color:whitesmoke;
    }
+   
 }
