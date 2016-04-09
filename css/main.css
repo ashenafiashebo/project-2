@@ -299,6 +299,7 @@ body {
 .banner-footer{
 	     flex-direction: column
 	     justify-content: space-between;
+	     flex-wrap: wrap;
 }
 
 .banner-footer h3 {
