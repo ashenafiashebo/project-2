@@ -76,7 +76,8 @@ img {
 .name-footer {
 	font-size: 1.35em;
 	margin: 0;
-      }   
+      }  
+      
 ul.main-nav li 
 {
   padding:.5em;
@@ -145,6 +146,7 @@ ul.main-nav-footer li
 
 .main-nav-footer a:hover {
 	color: #093a58;
+      }
 
 /* ---- Layout Containers ---- */
 
