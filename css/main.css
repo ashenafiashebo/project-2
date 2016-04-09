@@ -419,6 +419,14 @@ body {
 .banner-footer {
 	background: lightgray;
 }
+
+
+.main-footer{
+	flex-direction: row;
+	justify-content: space-between;
+	background: lightgray;
+              }
+
       
 .container {
 	flex-direction: row;
@@ -455,6 +463,7 @@ body {
      	justify-content: center;
      	items-align: center;
      	width: 1025px;
+     	background: gray;
      }
      
  ul.main-nav li 
