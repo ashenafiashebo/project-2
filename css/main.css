@@ -259,6 +259,7 @@ body {
 	
 .tagline {
 	font-size: 1.4em;
+	color: white;
 	}
 .main-header, 
 .main-nav,
@@ -346,7 +347,7 @@ body {
      	items-align: center;
      	width: 885.594px;
      	font-size: 1.4em;
-        color: black;
+        color: #fff;
 	margin-bottom: 0;
 	background: gray;
      }
@@ -355,7 +356,7 @@ body {
   {
   padding:.5em;
   margin:.5em;
-  background-color:#fff;
+  background-color:gray;
 }
      
 
@@ -434,7 +435,7 @@ body {
    {
   padding:.5em;
   margin:.5em;
-  background-color:#fff;
+  background-color:gray;
    }
    
 }
