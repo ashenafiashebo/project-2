@@ -110,6 +110,7 @@ ul.main-nav li
 	padding-top: .5em;
 	padding-bottom: .5em;
 	background: whitesmoke;
+	width: 90%;
             }
 
 .main-footer {
@@ -117,6 +118,7 @@ ul.main-nav li
 	padding: 2em 0;
 	margin-top: 0;
 	border-top: 1px solid lightgray;
+	width: 90%;
 
              }
 
@@ -125,6 +127,7 @@ ul.main-nav li
   background: #fff;
   justify-content: center;
   align-self: center;
+  width: 90%;
   
  
 }
@@ -135,6 +138,7 @@ ul.main-nav li
   background: #fff;
   border-radius: 5px;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+  width: 90%;
 }
 
 .skill {
@@ -146,6 +150,7 @@ ul.main-nav li
        background: #fff;
        justify-content: center;
        align-self: center;
+       width: 90%;
 }
 
 .skill-1{
@@ -191,6 +196,7 @@ ul.main-nav li
 	margin-bottom: 24px;
 	flex-direction: column;
         background: whitesmoke;
+        width: 90%;
         }
 
 .banner-footer {
