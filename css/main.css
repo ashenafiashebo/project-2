@@ -364,7 +364,9 @@ body {
   margin:.5em;
   background-color:gray;
 }
-     
+ .banner-image {
+   padding-bottom: 15px;	
+   }  
 
 }
 /* ================================= 
