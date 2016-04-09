@@ -201,6 +201,8 @@ ul.main-nav li
 	 padding-left: 1em;
 	 color: lightgray;
 	 width:90%;
+	 justify-content: center;
+         align-self: center;
             }
 
 
