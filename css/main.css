@@ -344,12 +344,14 @@ ul.main-nav li
 .main-header,
 .row,
 .banner,
-.row-prtfolio,
 .container,
 .main-footer {
 	width: 80%;
 	max-width: 1150px;
 	}
+.row-prtfolio {
+	width: 70%;
+}
 
 .main-header {
             flex-direction: row;
