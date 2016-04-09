@@ -166,6 +166,7 @@ ul.main-nav-footer li
 	background: white;
 	flex-direction: row;
 	justify-content: space-around;
+	
 
              }
 
@@ -248,7 +249,7 @@ ul.main-nav-footer li
         }
 
 .banner-footer {
-	 background: white;
+	 background: linear-gradient(whitesmoke, #fff);
 	 margin-bottom: 2em;
 	 margin-bottom: 0;
 	 padding-right: 1em;
