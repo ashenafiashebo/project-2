@@ -166,9 +166,9 @@ ul.main-nav-footer li
 	display: inline-block;
 	flex-direction: row;
 	justify-content: space-between;
-	width: 90%;
+	width: 315px;
         border-top: 1px solid lightgray;
-        padding-right: 2em;
+       
              }
 
 .row-portfolio { 
