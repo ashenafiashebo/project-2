@@ -345,13 +345,11 @@ ul.main-nav li
 .row,
 .banner,
 .container,
-.main-footer {
-	width: 80%;
-	max-width: 1150px;
-	}
+.main-footer,
 .row-prtfolio {
 	width: 70%;
-}
+	max-width: 1150px;
+	}
 
 .main-header {
             flex-direction: row;
