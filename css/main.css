@@ -115,9 +115,6 @@ ul.main-nav li
 	border-top: 1px solid lightgray;
 
              }
- .banner-footer {
- 	background: #fff;
- }
 
 .row-portfolio { 
   margin: auto;
@@ -187,7 +184,7 @@ ul.main-nav li
         }
 
 .banner-footer {
-	 background: whitesmoke;
+	 background: #fff;
 	 margin-top: 2em;
 	 margin-bottom: 0;
 	 padding-right: 1em;
