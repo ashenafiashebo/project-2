@@ -117,9 +117,9 @@ ul.main-nav-footer li
      
 .name-footer a,
 .main-nav-footer a {
-	text-align: center;
-	display: inline-block;
 
+	display: inline-block;
+	padding: 10px 15px;
 
       }
       
