@@ -166,8 +166,8 @@ ul.main-nav-footer li
 	display: inline-block;
 	flex-direction: row;
 	justify-content: space-between;
-	
-
+	width: 90%;
+        border-top: 1px solid lightgray;
              }
 
 .row-portfolio { 
@@ -258,7 +258,7 @@ ul.main-nav-footer li
 
 	 justify-content: space-around;
          align-self: center;
-         border-bottom: 1px solid lightgray;
+         
             }
 
 
