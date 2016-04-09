@@ -117,8 +117,7 @@ ul.main-nav li
              }
 
 .row-portfolio { 
-	 margin: auto;
- 
+  margin: auto;
   background: #fff;
   justify-content: center;
   align-self: center;
@@ -222,13 +221,13 @@ ul.main-nav li
         }
  
 .tagline {
-	max-width: 50%;
+	max-width: 100%;
 	padding-left: 10px;
 	color: gray;
 	padding-right: 1em;
 	padding-left: 1em;
 	text-align: center;
-}
+          }
 /* ================================= 
   Media Queries
 ==================================== */
@@ -359,7 +358,7 @@ ul.main-nav li
                 
 .row {   
 	flex-direction: row;
-	 flex: 2 800px;
+	flex: 2 800px;
 	 justify-content: center;
          align-self: center;
   
