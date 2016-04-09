@@ -89,7 +89,7 @@ ul.main-nav-footer li
 {
   padding:.5em;
   margin:.5em;
-  background-color:#fff;
+  background-color:whitesmoke;
 }
 
 
@@ -147,13 +147,6 @@ ul.main-nav-footer li
 .main-nav-footer a:hover {
 	color: #093a58;
       }
-      
-          
- ul.main-nav-footer li 
-  {
-
-  background-color:white;
-}
 
 /* ---- Layout Containers ---- */
 
