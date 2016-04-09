@@ -108,15 +108,12 @@ ul.main-nav-footer li
 	text-align: center;
 	display: block;
 	padding: 10px 15px;
-
       }
       
 .name-footer a,
 .main-nav-footer a {
-       
 	display: inline-block;
 	padding: 10px 15px;
-
       }
       
 .main-nav a {
@@ -137,8 +134,6 @@ ul.main-nav-footer li
 .main-nav a:hover {
 	color: #093a58;
 }
-
-
 
 .main-nav-footer a:hover {
 	color: #093a58;
@@ -227,7 +222,6 @@ ul.main-nav-footer li
   background: #fff;
   justify-content: center;
   align-self: center;
-
   
      }
      
@@ -247,7 +241,6 @@ ul.main-nav-footer li
 	 padding-right: 2em;
 	 padding-left: 2em;
 	 color: lightgray;
-	
 	 justify-content: space-around;
          align-self: center;
        
