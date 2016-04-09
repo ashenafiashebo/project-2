@@ -336,6 +336,7 @@ body {
 
 .tagline {
           order: -1;
+          color: black;
          }
 
  h4{
@@ -347,6 +348,7 @@ body {
      	font-size: 1.4em;
         color: black;
 	margin-bottom: 0;
+	background: gray;
      }
      
  ul.main-nav li 
