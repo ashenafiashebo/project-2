@@ -79,19 +79,17 @@ img {
 	
       }  
       
-ul.main-nav li
-{
+ul.main-nav li {
   padding:.5em;
   margin:.5em;
   background-color:#fff;
-}
+       }
 
-.main-nav-footer  
-{
+.main-nav-footer {
   padding:.5em;
   margin:.5em;
   background-color:white;
-}
+        }
 
 
 .main-nav {
@@ -128,7 +126,7 @@ ul.main-nav li
 	color:  #3a3a3a;
 	text-transform: uppercase;
         margin-left: 140px;
-        margin-top: -280px;
+     
             }
 
 
