@@ -93,7 +93,9 @@ ul.main-nav-footer li
   background-color:white;
 }
 
-
+ul.main-nav-footer li a {
+	width: 100px;
+}
 .main-nav {
 	margin-top: 5px;
 
