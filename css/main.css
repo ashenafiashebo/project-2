@@ -359,7 +359,7 @@ ul.main-nav li
 .container {
 	flex-direction: row;
 	flex-wrap: wrap;
-        height: 450px;
+        height: 850px;
 }
 .skill {
   flex: 1;
