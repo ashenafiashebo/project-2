@@ -249,7 +249,9 @@ body {
 .row-prtfolio,
 .container,
 .main-footer,
-.banner-footer {
+.banner-footer
+
+{
 	width: 90%;
 	margin: 0 auto;
 	}
@@ -274,11 +276,13 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
+  background: gray;
              }
 
 .main-footer{
 	flex-direction: row;
 	justify-content: space-between;
+	 background: gray;
               }
 
 .row
@@ -288,7 +292,7 @@ body {
      height: 1100px;
      justify-content: space-around;
      align-self: center;
-  
+   background: gray;
     }
     
  .container {
@@ -297,13 +301,14 @@ body {
      height: 1100px;
      justify-content: space-around;
      align-self: center;
-  
+   background: gray;
  }
 
 .banner-footer{
 	     flex-direction: column
 	     justify-content: space-between;
 	     flex-wrap: wrap;
+	      background: gray;
 }
 
 .banner-footer h3 {
