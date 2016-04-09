@@ -256,11 +256,16 @@ ul.main-nav-footer li
 	 padding-right: 2em;
 	 padding-left: 2em;
 	 color: lightgray;
-	 width: 320px;
+	
 	 justify-content: space-around;
          align-self: center;
-         border-bottom: 1px solid lightgray;
+       
             }
+ 
+ .banner-footer-2{
+  width: 90%;	
+  border-bottom: 1px solid lightgray;
+ }
 
 
 .gallery li {
