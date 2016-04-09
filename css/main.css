@@ -463,14 +463,14 @@ body {
      	justify-content: center;
      	items-align: center;
      	width: 1025px;
-     	background: gray;
+     	background: lightgray;
      }
      
  ul.main-nav li 
    {
   padding:.5em;
   margin:.5em;
-  background-color:background: lightgray;;
+  background-color:background: lightgray;
    }
    
 }
