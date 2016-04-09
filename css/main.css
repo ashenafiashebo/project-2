@@ -341,18 +341,18 @@ ul.main-nav li
   Media Queries
 ==================================== */
 @media (min-width: 1025px) {
-.main-header,
 
 
+.row,
 .container,
 .main-footer,
  {
 	width: 80%;
 	max-width: 1150px;
 	}
-.row,
+.main-header,
 .banner,
-.row-prtfolio {
+.row-portfolio {
 	width: 70%;
 }
 
