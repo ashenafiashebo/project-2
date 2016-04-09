@@ -241,7 +241,7 @@ ul.main-nav li
 @media (min-width: 769px) {
 	
 body {
-	background: #fff;
+	background: gray;
 }
 .main-header,
 .row,
