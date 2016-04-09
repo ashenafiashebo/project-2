@@ -103,7 +103,7 @@ ul.main-nav li
 /* ---- Layout Containers ---- */
 
 .main-header {
-	margin-top: 15px;
+
 	padding-top: .5em;
 	padding-bottom: .5em;
 	background: whitesmoke;
@@ -266,6 +266,7 @@ body {
             }	
 
 .main-header {
+  margin-top: 15px;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
@@ -364,6 +365,7 @@ body {
 	}
 
 .main-header {
+	    margin-top: 15px;
             flex-direction: row;
             justify-content: space-between;
 
