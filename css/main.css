@@ -430,7 +430,7 @@ ul.main-nav li {
 	    margin-top: 15px;
             flex-direction: row;
             justify-content: space-between;
-            background: lightgray;
+            background: whitesmoke;
 
            }
                 
@@ -439,13 +439,13 @@ ul.main-nav li {
 	flex: 2 800px;
 	 justify-content: center;
          align-self: center;
-         background: lightgray;
+         background: #fff;
   
       }
       
   .row-portfolio { 
   margin: auto;
-  background: lightgray;
+  background: #fff;
   justify-content: center;
   align-self: center;
   
@@ -457,7 +457,7 @@ ul.main-nav li {
 	flex-direction: row;
 	flex-wrap: wrap;
         height: 850px;
-        background: lightgray;
+        background:white;
 }
 .skill {
   flex: 1;
@@ -479,7 +479,7 @@ ul.main-nav li {
 .banner {
         flex-direction: row;
         justify-content: space-between;
-        background: lightgray;
+        background: whitesmoke;
         }
         
  h4  {
@@ -488,7 +488,7 @@ ul.main-nav li {
      	justify-content: center;
      	items-align: center;
      	width: 1025px;
-     	background: lightgray;
+     
      }
      
  ul.main-nav li 
