@@ -97,13 +97,7 @@ ul.main-nav li {
 	display: block;
 	padding: 10px 15px;
       }
-      
-.name-footer a,
-.main-nav-footer a {
-	display: inline-block;
-	padding: 10px 15px;
-      }
-      
+
 .main-nav a {
 	font-size: .95em;
 	color:  #3a3a3a;
