@@ -105,12 +105,7 @@ ul.main-nav li {
 	text-transform: uppercase;
 
             }
-            .main-footer a {
-	font-size: .95em;
-	color:  #3a3a3a;
-	text-transform: uppercase;
-
-            }
+      
             .footer-name {
             	 order: -1;
             }
@@ -138,9 +133,14 @@ ul.main-nav li {
 
              }
              
-             .main-footer a {
-             	color: green;
-                align-self:baseline;
+ .main-footer a {
+ 	
+        color: green;
+        align-self:baseline;
+	font-size: .95em;
+	color:  #3a3a3a;
+	text-transform: uppercase;
+
              }
 
 .row-portfolio { 
