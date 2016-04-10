@@ -283,9 +283,7 @@ ul.main-nav li {
 
 @media (min-width: 769px) {
 	
-body {
-	background: gray;
-}
+
 .main-header,
 .row,
 .banner,
@@ -413,9 +411,6 @@ body {
   Media Queries
 ==================================== */
 @media (min-width: 1025px) {
-body {
-	background:lightgray;
-}
 
 .row,
 .container,
