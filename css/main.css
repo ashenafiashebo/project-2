@@ -139,9 +139,9 @@ ul.main-nav li {
 	color: #093a58;
       }
       
-      #top {
+      #top a {
       	 self-align: baseline;
-      	 color: red;
+      	 color: green;
       }
     
 
