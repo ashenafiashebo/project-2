@@ -98,7 +98,7 @@ ul.main-nav li {
 	display: block;
 	padding: 10px 15px;
       }
-     #top {
+     .name-footer {
 	text-align: right;
 	display: inline-block;
 	padding: 10px 15px;
@@ -110,15 +110,7 @@ ul.main-nav li {
 	text-transform: uppercase;
 
             }
-         
- #top{
-	font-size: .5em;
-
-	text-transform: uppercase;
-       
-     
-            }
-
+ 
 
 .main-nav a:hover {
 	color: #093a58;
