@@ -329,12 +329,12 @@ ul.main-nav li {
      height: 1100px;
      justify-content: space-around;
      align-self: center;
-     background: gray;
+     background: #fff;
     }
     
   .row-portfolio { 
   margin: auto;
-  background: gray;
+  background: #fff;
   justify-content: center;
   align-self: center;
   } 
@@ -357,7 +357,7 @@ ul.main-nav li {
 }
 
 .banner-footer h4 {
-             color: #fff;	
+             color: gray;	
              font-size: 1.4em;
 }
 
@@ -374,7 +374,7 @@ ul.main-nav li {
 .banner {
          flex-direction: row;
          justify-content: space-around;
-          background: gray;
+          background: whitesmoke;
         }
 
 .tagline {
@@ -397,7 +397,7 @@ ul.main-nav li {
   {
   padding:.5em;
   margin:.5em;
-  background-color:gray;
+  background-color:whitesmoke;
 }
  .banner-image {
  	padding: 15px;
