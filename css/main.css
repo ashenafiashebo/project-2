@@ -113,6 +113,7 @@ ul.main-nav li {
         order: -1;
         float: left;
             }
+            
 
 /* ---- Layout Containers ---- */
 
@@ -129,8 +130,6 @@ ul.main-nav li {
 	padding: 2em 0;
 	margin-bottom: 0;
 	background: white;
-
-
              }
              
  .main-footer {
@@ -140,7 +139,7 @@ ul.main-nav li {
              
  .main-footer a {
  	
-        color: green;
+        color: Black;
 	font-size: .95em;
 	text-transform: uppercase;
 
