@@ -351,6 +351,7 @@ body {
  }
 
 .banner-footer{
+	     
 	     flex-direction: column
 	     justify-content: space-between;
 	     flex-wrap: wrap;
@@ -453,18 +454,8 @@ body {
   
  
 }
-.banner-footer {
-	background: lightgray;
-}
 
 
-.main-footer{
-	flex-direction: row;
-	justify-content: space-between;
-	background: lightgray;
-              }
-
-      
 .container {
 	flex-direction: row;
 	flex-wrap: wrap;
