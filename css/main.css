@@ -284,7 +284,9 @@ ul.main-nav li {
 ==================================== */
 
 @media (min-width: 769px) {
-	
+#main-nav {
+ 	
+}	
 
 .main-header,
 .row,
