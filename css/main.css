@@ -233,7 +233,7 @@ ul.main-nav li {
  
  .banner-footer-2{
   width: 90%;	
-  border-bottom: 1px solid lightgray;
+  border-bottom: #fff;
   align-items: center;
   justify-content: space-around;
   align-self: center;
