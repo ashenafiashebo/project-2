@@ -323,11 +323,6 @@ body {
   background: gray;
              }
 
-.main-footer{
-	flex-direction: row;
-	justify-content: space-between;
-	background: gray;
-              }
 
 .row
 {
@@ -359,8 +354,7 @@ body {
 	     flex-direction: column
 	     justify-content: space-between;
 	     flex-wrap: wrap;
-	     background: gray;
-	     color: white;
+	    
 }
 
 .banner-footer h4 {
