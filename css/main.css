@@ -114,6 +114,9 @@ ul.main-nav li {
             .footer-name{
             	 order: 1;
             }
+            #top{
+            	float: right;
+            }
  
 
 /* ---- Layout Containers ---- */
