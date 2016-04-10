@@ -17,26 +17,26 @@ body {
       }
 
 ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
 
-p {
-	font-size: 1em;
-	margin-bottom: 1.8em;
-       }
+p   {
+      font-size: 1em;
+      margin-bottom: 1.8em;
+     }
        
 h2,
 h3,
 a {
-	color:  #3a3a3a;
-}
+  color:  #3a3a3a;
+  }
 
 h2,
 h3 {
-	margin-top: 0;
-     }
+    margin-top: 0;
+   }
      
 h4 {
      	text-align: center;
