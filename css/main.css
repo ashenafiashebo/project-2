@@ -109,6 +109,7 @@ ul.main-nav li {
  .footer-name {
  	margin-right: 150px;
  	margin-left: 15px;
+ 	padding-left: 10px;
         order: -1;
         float: left;
             }
