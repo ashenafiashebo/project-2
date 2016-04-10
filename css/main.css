@@ -106,12 +106,11 @@ ul.main-nav li {
 
             }
       
-            .footer-name {
-            	 order: -1;
+ .footer-name {
+ 	margin: 0;
+        order: -1;
             }
-        #top{
-        	color: red;
-        }
+      
 /* ---- Layout Containers ---- */
 
 .main-header {
