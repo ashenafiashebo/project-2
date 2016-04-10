@@ -285,18 +285,13 @@ ul.main-nav li {
 
 @media (min-width: 769px) {
 	
-            
- .main-footer #main-nav {
- 	flex-direction: row;
-	justify-content: space-between;	
- }
-         
+  
 .main-header,
 .row,
 .banner,
 .row-prtfolio,
 .container,
-.main-footer,
+#main-footer,
 .banner-footer
 
 {
