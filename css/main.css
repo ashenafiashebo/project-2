@@ -137,9 +137,9 @@ ul.main-nav li {
 	justify-content: space-between;	
  }
              
- .main-footer a {
+ .main-footer #top a {
  	
-        color: Black;
+        color: red;
 	font-size: .95em;
 	text-transform: uppercase;
 
