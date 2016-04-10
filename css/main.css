@@ -111,9 +111,9 @@ ul.main-nav li {
             }
  .main-nav-footer a {
 	font-size: .5em;
-	color:  #3a3a3a;
+
 	text-transform: uppercase;
-        margin-right: 140px;
+       
      
             }
 
@@ -124,11 +124,6 @@ ul.main-nav li {
 
 .main-nav-footer a:hover {
 	color: #093a58;
-      }
-      
-      #top  {
-      	 self-align: baseline;
-      	 color: green;
       }
     
 
