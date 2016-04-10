@@ -138,6 +138,11 @@ ul.main-nav li {
 .main-nav-footer a:hover {
 	color: #093a58;
       }
+      
+      #top {
+      	 self-align: baseline;
+      }
+    
 
 /* ---- Layout Containers ---- */
 
