@@ -114,11 +114,9 @@ ul.main-nav li {
             .footer-name {
             	 order: -1;
             }
-            #top{
-            	float: right;
-            }
- 
-
+        #top{
+        	color: red;
+        }
 /* ---- Layout Containers ---- */
 
 .main-header {
