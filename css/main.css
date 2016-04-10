@@ -126,6 +126,9 @@ ul.main-nav li {
 	justify-content: space-between;
 
              }
+             .main-footer a {
+             	color: green;
+             }
 
 .row-portfolio { 
   margin: auto;
