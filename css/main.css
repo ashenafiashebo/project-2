@@ -345,7 +345,7 @@ ul.main-nav li {
      height: 1100px;
      justify-content: space-around;
      align-self: center;
-     background: whitesmoke;
+     background: #fff;
  }
 
 .banner-footer{
@@ -390,9 +390,9 @@ ul.main-nav li {
      	items-align: center;
      	width: 885.594px;
      	font-size: 1.4em;
-        color: #fff;
+        color:gray;
 	margin-bottom: 0;
-	background: gray;
+	background: #fff;
      }
      
  ul.main-nav li 
