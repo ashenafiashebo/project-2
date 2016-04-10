@@ -126,10 +126,10 @@ ul.main-nav li {
 	justify-content: space-between;
 
              }
+             
              .main-footer a {
              	color: green;
-             	flex-direction: row;
-             	justify-content: space-around;
+                align-self:baseline;
              }
 
 .row-portfolio { 
