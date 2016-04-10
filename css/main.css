@@ -111,8 +111,8 @@ ul.main-nav li {
 	text-transform: uppercase;
 
             }
-            .footer-name{
-            	 order: 1;
+            .footer-name {
+            	 order: -1;
             }
             #top{
             	float: right;
