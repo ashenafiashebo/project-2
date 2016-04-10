@@ -137,12 +137,10 @@ ul.main-nav li {
 	justify-content: space-between;	
  }
              
- .main-footer top a {
+ .main-footer a {
  	
-        color: red;
+        color: black;
 	font-size: .95em;
-	text-transform: uppercase;
-
 
              }
 
