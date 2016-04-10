@@ -291,7 +291,7 @@ ul.main-nav li {
 .banner,
 .row-prtfolio,
 .container,
-#main-footer,
+.main-footer,
 .banner-footer
 
 {
@@ -307,7 +307,7 @@ ul.main-nav li {
 .main-nav,
 .row,
 .banner,
-#main-footer,
+.main-footer,
 .banner-footer,
 .gallery,
 .container,
@@ -323,7 +323,7 @@ ul.main-nav li {
   background: whitesmoke;
              }
 
-#main-footer {
+.main-footer {
   margin-top: 15px;
   flex-direction: column;
   align-items: center;
