@@ -108,8 +108,8 @@ ul.main-nav li {
       
  .footer-name {
  	margin-right: 125px;
- 	margin-left: 15px;
- 	padding-left: 10px;
+ 	margin-left: auto;
+ 
         order: -1;
         float: left;
             }
