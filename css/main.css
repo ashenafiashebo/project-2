@@ -284,10 +284,13 @@ ul.main-nav li {
 ==================================== */
 
 @media (min-width: 769px) {
-#main-nav {
- 	
-}	
-
+	
+            
+ .main-footer #main-nav {
+ 	flex-direction: row;
+	justify-content: space-between;	
+ }
+         
 .main-header,
 .row,
 .banner,
