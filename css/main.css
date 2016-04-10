@@ -132,17 +132,7 @@ ul.main-nav li {
 
 
              }
-             
- .main-footer a {
- 	
-        color: green;
-	font-size: .95em;
-	text-transform: uppercase;
-	flex-direction: row;
-	justify-content: space-between;
-
-             }
-
+    
 .row-portfolio { 
   margin: auto;
   background: #fff;
