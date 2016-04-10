@@ -323,7 +323,6 @@ ul.main-nav li {
   background: whitesmoke;
              }
 
-
 .row
 {
      flex-wrap: wrap;
@@ -357,7 +356,6 @@ ul.main-nav li {
 	     flex-wrap: wrap;
 	     background: linear-gradient(whitesmoke, #fff);
 
-	    
 }
 
 .banner-footer h4 {
@@ -497,7 +495,7 @@ ul.main-nav li {
    {
   padding:.5em;
   margin:.5em;
-  background-color: lightgray;
+  background-color: whitesmoke;
    }
    
 }
