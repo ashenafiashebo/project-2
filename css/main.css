@@ -96,7 +96,7 @@ ul.main-nav li {
 .main-nav {
 	margin-top: 5px;
 
-     }
+          }
      
  .main-nav-footer {
 	margin-top: 5px;
@@ -182,9 +182,9 @@ ul.main-nav li {
 	border-radius: 20px;
 	width: 320px;
 	margin: auto;
-       background: #fff;
-       justify-content: center;
-       align-self: center;
+        background: #fff;
+        justify-content: center;
+        align-self: center;
      
 }
 
