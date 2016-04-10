@@ -230,6 +230,16 @@ ul.main-nav li {
          align-self: center;
        
             }
+  
+ .banner-footer-2 {
+  width: 90%;	
+  border-bottom: #fff;
+  align-items: center;
+  justify-content: space-around;
+  align-self: center;
+ }
+
+
  
 .gallery li {
 	background-color: #fff;
