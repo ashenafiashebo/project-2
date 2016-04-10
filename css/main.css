@@ -77,7 +77,7 @@ img {
 .name-footer {
 	font-size: 1.35em;
 	margin: 0;
-	color: green;
+
 	
       }  
       
@@ -100,6 +100,12 @@ ul.main-nav li {
       }
 
 .main-nav a {
+	font-size: .95em;
+	color:  #3a3a3a;
+	text-transform: uppercase;
+
+            }
+            .name-footer {
 	font-size: .95em;
 	color:  #3a3a3a;
 	text-transform: uppercase;
