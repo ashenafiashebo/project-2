@@ -435,9 +435,7 @@ ul.main-nav li {
   Media Queries
 ==================================== */
 @media (min-width: 1025px) {
-body{
-	background: linear-gradient(whitesmoke, #fff);
-}
+
 .row,
 .container,
 .main-footer,
@@ -525,12 +523,5 @@ body{
   margin:.5em;
   background-color: whitesmoke;
    }
-   .tagline {
-
-	
-	color: gray;
-	padding-right: 1em;
-	padding-left: 1em;
-
-          }
+  
 }
