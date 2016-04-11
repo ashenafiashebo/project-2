@@ -437,7 +437,7 @@ ul.main-nav li {
 @media (min-width: 1025px) {
 
 body{
-	background: whitesmoke;
+	background: linear-gradient(whitesmoke,#fff);
 }
 
 .row,
@@ -449,7 +449,7 @@ body{
 .banner-footer,
 .banner-footer-2
  {
-	width: 80%;
+	width: 90%;
 	max-width: 1150px;
 	}
 
