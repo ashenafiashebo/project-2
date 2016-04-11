@@ -213,7 +213,7 @@ ul.main-nav li {
         }
 
 .banner-footer {
-	 background: linear-gradient( whitesmoke, #fff );
+	 background: whitesmoke;
 	 
 	 padding-right: 2em;
 	 padding-left: 2em;
@@ -228,7 +228,7 @@ ul.main-nav li {
   align-items: center;
   justify-content: space-around;
   align-self: center;
-  border-top: 1px solid gray;
+  border-top: 1px solid lightgray;
   font-size: 1px;
  }
 
