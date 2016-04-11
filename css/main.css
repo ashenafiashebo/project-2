@@ -214,7 +214,7 @@ ul.main-nav li {
 
 .banner-footer {
 	 background: linear-gradient( whitesmoke, #fff );
-	 border-bottom: 1px solid gray;
+	 
 	 padding-right: 2em;
 	 padding-left: 2em;
 	 color: lightgray;
@@ -228,7 +228,7 @@ ul.main-nav li {
   align-items: center;
   justify-content: space-around;
   align-self: center;
- 
+  border-top: 1px solid gray;
   font-size: 1px;
  }
 
