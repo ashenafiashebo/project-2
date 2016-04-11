@@ -316,7 +316,15 @@ ul.main-nav li {
   justify-content: space-around;
   background: whitesmoke;
              }
-
+  
+ .banner-footer-2 {
+  width: 90%;	
+  align-items: center;
+  justify-content: space-around;
+  align-self: center;
+  border-bottom: 1px solid gray;
+  
+ }
 .row
 {
      flex-wrap: wrap;
