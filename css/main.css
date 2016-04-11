@@ -128,7 +128,7 @@ ul.main-nav li {
 
 .main-footer {
 
-font-size: .95em;
+
 	margin-bottom: 0;
 	background: white;
              }
@@ -141,8 +141,7 @@ font-size: .95em;
  .main-footer a {
  	
         color: black;
-	font-size: 0;
-
+        font-size: .95em;
              }
 
 .row-portfolio { 
