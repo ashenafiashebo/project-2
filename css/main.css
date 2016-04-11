@@ -223,7 +223,14 @@ ul.main-nav li {
         
             }
   
-
+ .banner-footer-2 {
+  width: 90%;	
+  align-items: center;
+  justify-content: space-around;
+  align-self: center;
+  border-bottom: 1px solid gray;
+  font-size: 1px;
+ }
 
 .gallery li {
 	background-color: #fff;
