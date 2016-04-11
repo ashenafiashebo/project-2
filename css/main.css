@@ -233,12 +233,12 @@ ul.main-nav li {
   
  .banner-footer-2 {
   width: 90%;	
-  border-bottom: #fff;
+ 
   align-items: center;
   justify-content: space-around;
   align-self: center;
   border-bottom: 1px solid gray;
-  padding-bottom: -15px;
+  margin-bottom: -15px;
  }
 
 
