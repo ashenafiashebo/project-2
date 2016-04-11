@@ -55,8 +55,6 @@ h3{
   
 a {
 	text-decoration: none;
-	list-style: none;
-
    }
    
 img {
@@ -92,6 +90,7 @@ ul.main-nav li {
  .main-nav-footer li a {
              color: green;
              margin: 0;
+             display: inline-block;
          }
 .name a,
 .main-nav a {
