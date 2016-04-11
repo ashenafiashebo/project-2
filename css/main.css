@@ -454,7 +454,7 @@ ul.main-nav li {
             flex-direction: row;
             justify-content: space-between;
             background: whitesmoke;
-            margin-left: 60px;
+            margin-left: 80px;
            }
            .main-footer a{
            	color: white;
@@ -506,6 +506,7 @@ ul.main-nav li {
         flex-direction: row;
         justify-content: space-around;
         background: whitesmoke;
+        margin-left: 80px;
         }
         
  h4  {
