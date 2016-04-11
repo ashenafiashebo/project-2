@@ -275,39 +275,8 @@ ul.main-nav li {
 
 @media (min-width: 769px) {
 	
-  /* ---- Navigation ---- */
 
 
-
-
-.main-nav-footer {
-	margin-top: 5px;
-       
-          }
-
-.footer-name a,
-.main-nav-footer a {
-	 
-	text-align: center;
-	display: inline-block;
-	padding: 10px 15px;
-      }
-   
-.main-nav-footer a {
-	font-size: .95em;
-	color:  #3a3a3a;
-	text-transform: uppercase;
-
-            }
-      
-.footer-name {
- 	margin-right: 150px;
- 	margin-left: 30px;
-       
-        order: -1;
-        float: left;
-            }
-            
 .main-header,
 .row,
 .banner,
@@ -344,11 +313,20 @@ ul.main-nav li {
   justify-content: space-around;
   background: whitesmoke;
              }
+             
    .main-nav-footer li a {
              color: black;
              padding: 0;
-            
          }
+         
+          .banner-footer-2 {
+  width: 90%;	
+  align-items: center;
+  justify-content: space-around;
+  align-self: center;
+  border-bottom: 1px solid gray;
+
+ }
 
 .row
 {
