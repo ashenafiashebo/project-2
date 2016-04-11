@@ -89,7 +89,9 @@ ul.main-nav li {
 	margin-top: 5px;
 
           }
- 
+ .main-nav-footer li a {
+ color: white;	
+ }
 .name a,
 .main-nav a {
 	text-align: center;
