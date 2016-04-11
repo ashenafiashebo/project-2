@@ -274,8 +274,6 @@ ul.main-nav li {
 ==================================== */
 
 @media (min-width: 769px) {
-	
-
 
 .main-header,
 .row,
@@ -317,11 +315,11 @@ ul.main-nav li {
              
 .main-footer {
 
-	margin-bottom: 20px;
 	background: white;
         flex-direction: row;
 	justify-content: space-between;	
              }
+             
   .main-footer a {
  	
         color: yellow;
@@ -336,7 +334,6 @@ ul.main-nav li {
 	padding: 10px 15px;
       }
 
-         
  .banner-footer-2 {
                align-items: center;
                justify-content: space-between;
