@@ -294,7 +294,7 @@ ul.main-nav li {
 	}
 .main-header, 
 .main-nav,
-.main-navfooter,
+.main-nav-footer,
 .row,
 .banner,
 .main-footer,
@@ -307,19 +307,14 @@ ul.main-nav li {
             }	
 
 .main-header {
-  margin-top: 15px;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-around;
-  background: whitesmoke;
+          margin-top: 15px;
+          flex-direction: column;
+          align-items: center;
+          justify-content: space-around;
+          background: whitesmoke;
              }
              
-.main-footer {
 
-	background: white;
-        flex-direction: row;
-	justify-content: space-between;	
-             }
              
   .main-footer a {
  	
@@ -327,9 +322,9 @@ ul.main-nav li {
         font-size: 1px;
              }
              
- .footer-name a,
+
  .main-nav-footer a {
-	 
+	 justify-content: space-between;
 	text-align: center;
 	display: inline-block;
 	padding: 10px 15px;
