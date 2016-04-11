@@ -436,7 +436,7 @@ ul.main-nav li {
 ==================================== */
 @media (min-width: 1025px) {
 body{
-	background: whitesmoke;
+	background: linear-gradient(whitesmoke, #fff);
 }
 .row,
 .container,
