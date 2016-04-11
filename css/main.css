@@ -283,7 +283,8 @@ ul.main-nav li {
 .row-prtfolio,
 .container,
 .main-footer,
-.banner-footer
+.banner-footer,
+.banner-footer-2
         {
 	width: 90%;
 	margin: 0 auto;
@@ -301,7 +302,8 @@ ul.main-nav li {
 .banner-footer,
 .gallery,
 .container,
-.row-portfolio {
+.row-portfolio,
+.banner-footer-2 {
          display: flex;
             }	
 
@@ -321,7 +323,7 @@ ul.main-nav li {
              }
              
  .footer-name a,
-.main-nav-footer a {
+ .main-nav-footer a {
 	 
 	text-align: center;
 	display: inline-block;
@@ -329,13 +331,10 @@ ul.main-nav li {
       }
 
          
-   .banner-footer-2 {
-               width: 90%;	
+ .banner-footer-2 {
                align-items: center;
-               justify-content: space-around;
+               justify-content: space-between;
                align-self: center;
-               border-bottom: 1px solid gray;
-
                }
 
 .row
