@@ -436,6 +436,10 @@ ul.main-nav li {
 ==================================== */
 @media (min-width: 1025px) {
 
+body{
+	background: whitesmoke;
+}
+
 .row,
 .container,
 .main-footer,
