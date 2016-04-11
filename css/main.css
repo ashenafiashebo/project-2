@@ -319,7 +319,14 @@ ul.main-nav li {
              padding: 0;
          }
          
-          .banner-footer-2 {
+          .main-footer a {
+ 	
+        color: yellow;
+        font-size: 1px;
+             }
+
+         
+   .banner-footer-2 {
   width: 90%;	
   align-items: center;
   justify-content: space-around;
