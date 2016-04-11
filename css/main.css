@@ -87,11 +87,7 @@ ul.main-nav li {
 	margin-top: 5px;
        
           }
- .main-nav-footer li a {
-             color: #fff;
-             padding: 0;
-             font-size: 1px;
-         }
+
 .name a,
 .main-nav a {
 	 
@@ -316,7 +312,11 @@ ul.main-nav li {
   justify-content: space-around;
   background: whitesmoke;
              }
-  
+   .main-nav-footer li a {
+             color: black;
+             padding: 0;
+            
+         }
  .banner-footer-2 {
   width: 90%;	
   align-items: center;
