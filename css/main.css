@@ -313,15 +313,18 @@ ul.main-nav li {
           justify-content: space-around;
           background: whitesmoke;
              }
-    
+ .main-footer {
+ 	padding-top: 15px;
+ }
  .main-footer a {
  	
         color: yellow;
         font-size: 1px;
              }
+             
      .footer-name a,
      .main-nav-footer a {
-     	margin-top: 45px;
+     	margin-top: 15px;
      	margin-bottom: 0;
      }
 
