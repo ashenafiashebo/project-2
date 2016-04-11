@@ -515,7 +515,7 @@ body{
         
   .banner-footer-2 {
   	margin-bottom: 20px;
-  	background: whitesmoke;
+  	background: linear-gradient(whitesmoke, #fff);
   }
         
  h4  {
