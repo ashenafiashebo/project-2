@@ -432,6 +432,9 @@ ul.main-nav li {
             background: whitesmoke;
 
            }
+           .main-footer a{
+           	color: white;
+           }
                 
 .row {   
 	flex-direction: row;
