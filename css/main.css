@@ -94,6 +94,7 @@ ul.main-nav li {
          }
 .name a,
 .main-nav a {
+	 font-size: .95em;
 	text-align: center;
 	display: block;
 	padding: 10px 15px;
@@ -109,7 +110,7 @@ ul.main-nav li {
 .footer-name {
  	margin-right: 150px;
  	margin-left: 20px;
-        font-size: .95em;
+       
         order: -1;
         float: left;
             }
