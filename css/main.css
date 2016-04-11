@@ -444,7 +444,8 @@ body{
 .main-header,
 .banner,
 .row-portfolio,
-.banner-footer
+.banner-footer,
+.banner-footer-2
  {
 	width: 90%;
 	max-width: 1150px;
