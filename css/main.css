@@ -90,8 +90,9 @@ ul.main-nav li {
 
           }
  .main-nav-footer li a {
- color: white;	
- }
+             color: white;
+             margin: 0;
+         }
 .name a,
 .main-nav a {
 	text-align: center;
@@ -129,7 +130,6 @@ ul.main-nav li {
 	padding: 2em 0;
 	margin-bottom: 0;
 	background: white;
-	height: 2000px;
              }
              
  .main-footer {
