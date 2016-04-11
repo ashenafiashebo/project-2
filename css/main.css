@@ -129,7 +129,7 @@ ul.main-nav li {
 	padding: 2em 0;
 	margin-bottom: 0;
 	background: white;
-	height: 20px;
+	height: -20px;
              }
              
  .main-footer {
