@@ -128,16 +128,13 @@ ul.main-nav li {
 
 .main-footer {
 
-
+        margin-top:10px;
 	margin-bottom: 0;
 	background: white;
-             }
-             
- .main-footer {
- 	flex-direction: row;
+        flex-direction: row;
 	justify-content: space-between;	
- }
-             
+             }
+
  .main-footer a {
  	
         color: black;
