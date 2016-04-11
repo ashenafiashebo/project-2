@@ -315,7 +315,13 @@ ul.main-nav li {
   background: whitesmoke;
              }
              
+.main-footer {
 
+	margin-bottom: 20px;
+	background: white;
+        flex-direction: row;
+	justify-content: space-between;	
+             }
   .main-footer a {
  	
         color: yellow;
