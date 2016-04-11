@@ -284,8 +284,7 @@ ul.main-nav li {
 .container,
 .main-footer,
 .banner-footer
-
-{
+        {
 	width: 90%;
 	margin: 0 auto;
 	}
@@ -314,36 +313,40 @@ ul.main-nav li {
   background: whitesmoke;
              }
              
-   .main-nav-footer li a {
-             color: black;
-             padding: 0;
-         }
-         
-          .main-footer a {
+
+  .main-footer a {
  	
         color: yellow;
         font-size: 1px;
              }
+             
+             .name a,
+.main-nav a {
+	 
+	text-align: center;
+	display: block;
+	padding: 10px 15px;
+      }
 
          
    .banner-footer-2 {
-  width: 90%;	
-  align-items: center;
-  justify-content: space-around;
-  align-self: center;
-  border-bottom: 1px solid gray;
+               width: 90%;	
+               align-items: center;
+               justify-content: space-around;
+               align-self: center;
+               border-bottom: 1px solid gray;
 
- }
+               }
 
 .row
-{
+       {
      flex-wrap: wrap;
      flex-direction: row;
      height: 1100px;
      justify-content: space-around;
      align-self: center;
      background: #fff;
-    }
+            }
     
   .row-portfolio { 
   margin: auto;
