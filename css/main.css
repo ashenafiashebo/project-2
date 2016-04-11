@@ -99,11 +99,7 @@ ul.main-nav li {
 	display: block;
 	padding: 10px 15px;
       }
-      .main-nav-footer a {
-	text-align: center;
-	display: inline-block;
-
-      }
+   
 
 .main-nav a {
 	font-size: .95em;
@@ -132,7 +128,7 @@ ul.main-nav li {
 
 .main-footer {
 
-	padding: 2em 0;
+
 	margin-bottom: 0;
 	background: white;
              }
