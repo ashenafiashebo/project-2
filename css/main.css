@@ -377,6 +377,7 @@ ul.main-nav li {
 	     justify-content: space-between;
 	     flex-wrap: wrap;
 	     background: linear-gradient(whitesmoke, #fff);
+	     border-bottom: 1px solid red;
 
 }
 
