@@ -77,8 +77,6 @@ img {
 .footer-name {
 	font-size: 1.35em;
 	margin: 0;
-
-	
       }  
       
 ul.main-nav li {
@@ -109,7 +107,6 @@ ul.main-nav li {
  .footer-name {
  	margin-right: 125px;
  	margin-left: auto;
- 
         order: -1;
         float: left;
             }
@@ -221,7 +218,7 @@ ul.main-nav li {
 
 .banner-footer {
 	 background: linear-gradient( whitesmoke, #fff );
-	 margin-bottom: 2em;
+	 margin-bottom: 4em;
 	 margin-bottom: 0;
 	 padding-right: 2em;
 	 padding-left: 2em;
