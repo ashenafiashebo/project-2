@@ -88,7 +88,7 @@ ul.main-nav li {
 
           }
  .main-nav-footer li a {
-             color: green;
+             color: #fff;
              padding: 0;
              font-size: 1px;
          }
@@ -99,7 +99,6 @@ ul.main-nav li {
 	padding: 10px 15px;
       }
    
-
 .main-nav a {
 	font-size: .95em;
 	color:  #3a3a3a;
@@ -110,6 +109,7 @@ ul.main-nav li {
 .footer-name {
  	margin-right: 125px;
  	margin-left: auto;
+ 	padding-top: 20px;
         order: -1;
         float: left;
             }
