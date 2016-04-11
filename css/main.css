@@ -320,11 +320,11 @@ ul.main-nav li {
         font-size: 1px;
              }
              
-             .name a,
-.main-nav a {
+ .footer-name a,
+.main-nav-footer a {
 	 
 	text-align: center;
-	display: block;
+	display: inline-block;
 	padding: 10px 15px;
       }
 
