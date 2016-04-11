@@ -313,6 +313,10 @@ ul.main-nav li {
           justify-content: space-around;
           background: whitesmoke;
              }
+             
+ .main-footer{
+ 	margin:0;
+ }
         
  .main-footer a {
  	
