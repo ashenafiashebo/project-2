@@ -213,7 +213,7 @@ ul.main-nav li {
         }
 
 .banner-footer {
-	 background: whitesmoke;
+	 background: linear-gradient(whitesmoke, #fff);
 	 
 	 padding-right: 2em;
 	 padding-left: 2em;
