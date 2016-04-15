@@ -181,6 +181,11 @@ ul.main-nav li {
         background: whitesmoke;
    
         }
+        
+ .banner-footer{
+ 	justify-content: space-around;
+        align-self: center;
+ }
 
 .banner-footer h4 {
 	 background: whitesmoke;
@@ -188,13 +193,10 @@ ul.main-nav li {
 	 padding-right: 2em;
 	 padding-left: 2em;
 	 color: lightgray;
-	 justify-content: space-around;
-         align-self: center;
+	 
         
             }
-  .banner-footer li {
-  	color: black;
-  }
+
  .banner-footer-2 {
   width: 90%;	
   align-items: center;
