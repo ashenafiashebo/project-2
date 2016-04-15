@@ -110,6 +110,10 @@ ul.main-nav li {
  .main-nav-footer a {
  	display: none;
  }
+ 
+ .main-footer #top {
+ 	color: red;
+ }
        
 
 /* ---- Layout Containers ---- */
