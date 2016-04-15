@@ -295,7 +295,7 @@ background : #0399ff;
 body {
       background: whitesmoke;
       }
-
+      
 .main-header,
 .row,
 .banner,
@@ -304,7 +304,7 @@ body {
 .main-footer,
 .banner-footer,
 .flex,
-.card
+
         {
 	width: 90%;
 	margin: 0 auto;
