@@ -101,9 +101,9 @@ ul.main-nav li {
 
             }
       
-.footer-name a {
-        justify-content: space-around;
-        display: inline-block;
+.footer-name  {
+       	margin-right: 150px;
+ 	margin-left: 30px;
         order: -1;
         float: left;
             }
