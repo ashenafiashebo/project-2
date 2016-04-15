@@ -489,12 +489,10 @@ body{
 	}
 
 .main-header {
-       margin-top: 15px;
        flex-direction: row;
        justify-content: space-between;
        background: whitesmoke;
        margin-left: 125px;
-      
            }
            
 .main-footer a {
@@ -508,8 +506,8 @@ body{
 }
 
 .footer-name a {
-         margin-left: 25px;
-         margin-right: 150px;
+         margin-left: 5px;
+         margin-right: 220px;
              }  
        
 .row {   
