@@ -420,12 +420,17 @@ body{
            }
 .main-footer a {
      color: black;
+      
            }
            
 .main-footer {
 	background: whitesmoke;
 	margin-left: 125px;
 }
+
+.main-nav-footer a {
+      
+      }
                 
 .row {   
 	flex-direction: row;
@@ -474,7 +479,7 @@ body{
  
   .main-nav-footer {
  	float: right;
-        margin-left: 300px;
+        margin-left: 320px;
  }
 
 
