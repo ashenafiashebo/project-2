@@ -170,6 +170,7 @@ ul.main-nav li {
 
 .banner-footer {
 	 background: linear-gradient(whitesmoke, #fff);
+	 text-align: center;
 	 padding-right: 2em;
 	 padding-left: 2em;
 	 color: lightgray;
