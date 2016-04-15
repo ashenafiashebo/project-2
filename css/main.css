@@ -277,10 +277,12 @@ ul.main-nav li {
         color: black;
         font-size: 1px;
              }
- .footer-name a {
+ .footer-name  {
      order: -1;
      justify-content: space-between;
      display: inline-block;
+     float: left;
+     margin-right: 40px;
             }          
 
 
