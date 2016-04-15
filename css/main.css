@@ -305,7 +305,8 @@ body {
 .container,
 .main-footer,
 .banner-footer,
-.flex
+.flex,
+.banner-footer-2
 
         {
 	width: 100%;
@@ -395,6 +396,7 @@ body {
         align-self: center;
         font-size:.95em;
         padding-bottom: 60px;
+        background: whitesmoke;
                }
 .row
           {
