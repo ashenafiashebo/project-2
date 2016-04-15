@@ -288,7 +288,7 @@ ul.main-nav li {
  	padding-top: 15px;
  }
  .main-footer a {
- 	margin-right: 40px;
+ 	
         color: black;
         font-size: 1px;
              }
@@ -297,7 +297,7 @@ ul.main-nav li {
      justify-content: space-between;
      display: inline-block;
      float: left;
-     margin-right: 265px;
+     margin-right: 100px;
             }   
  .main-nav-footer {
  	float: right;
