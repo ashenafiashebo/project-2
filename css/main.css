@@ -103,7 +103,7 @@ ul.main-nav li {
             }
       
 .footer-name  a {
-       	margin-right: 40px;
+       	margin-right: 90px;
  	margin-left: 10px;
         order: -1;
         float: left;
@@ -288,7 +288,7 @@ ul.main-nav li {
  	padding-top: 15px;
  }
  .main-footer a {
- 	
+ 	margin-right: 40px;
         color: black;
         font-size: 1px;
              }
