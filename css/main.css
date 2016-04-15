@@ -303,7 +303,7 @@ body {
 .container,
 .main-footer,
 .banner-footer,
-.flex,
+.flex
 
         {
 	width: 90%;
@@ -325,8 +325,8 @@ body {
 .container,
 .row-portfolio,
 .banner-footer-2,
-.flex,
-.card {
+.flex
+ {
          display: flex;
             }	
 
