@@ -173,7 +173,12 @@ transition : all 0.5s;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 }
 
-
+.flex {
+flex: 1;
+  background: #fff;
+  justify-content: center;
+  align-self: center;	
+}
 .row {  
   flex: 1;
   background: #fff;
