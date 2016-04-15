@@ -114,6 +114,10 @@ ul.main-nav li {
  b{
  	color: black;
  }
+ 
+ .main-footer b {
+ 	color: red;
+ }
 
 
 /* ---- Layout Containers ---- */
