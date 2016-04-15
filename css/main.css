@@ -471,6 +471,13 @@ body{
  	background:linear-gradient(whitesmoke, #fff);
  	width: 100%;
  }
+ 
+  .main-nav-footer {
+ 	float: right;
+        margin-left: 300px;
+ }
+
+
         
   .banner-footer-2 {
   	margin-bottom: 20px;
