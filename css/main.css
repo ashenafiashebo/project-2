@@ -106,6 +106,7 @@ ul.main-nav li {
  	margin-left: 10px;
         order: -1;
         float: left;
+        height: 108.141;
             }
  .main-nav-footer a {
  	display: none;
@@ -120,7 +121,7 @@ ul.main-nav li {
  	font-size: 1.25em;
         margin-right: 10px;
  	margin-left: 5px;
- 	height: 85.2969px;
+ 
  }
 
 
