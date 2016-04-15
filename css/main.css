@@ -102,12 +102,12 @@ ul.main-nav li {
 
             }
       
-.footer-name  {
+.footer-name  a {
        	margin-right: 90px;
  	margin-left: 10px;
         order: -1;
         float: left;
-        height: 108.141;
+        
             }
  .main-nav-footer a {
  	display: none;
