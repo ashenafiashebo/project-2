@@ -277,7 +277,7 @@ ul.main-nav li {
         color: black;
         font-size: 1px;
              }
- .footer-name  {
+ .footer-name a {
      order: -1;
      justify-content: space-between;
      display: inline-block;
