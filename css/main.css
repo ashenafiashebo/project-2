@@ -396,7 +396,7 @@ body{
 .row-portfolio,
 .banner-footer,
 .banner-footer-2
- {
+        {
 	width: 80%;
 	max-width: 1150px;
 	}
@@ -408,7 +408,7 @@ body{
     background: whitesmoke;
     margin-left: 125px;
            }
-.main-footer a{
+.main-footer a {
      color: black;
            }
            
@@ -456,6 +456,10 @@ body{
         margin-left: 125px;
        
         }
+ .banner-footer {
+ 	background:linear-gradient(whitesmoke, #fff);
+ 	width: 100%;
+ }
         
   .banner-footer-2 {
   	margin-bottom: 20px;
