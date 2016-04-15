@@ -394,7 +394,7 @@ ul.main-nav li {
 @media (min-width: 1025px) {
 
 body{
- background: linear-gradient(#fff);
+ background: linear-gradient(whitesmoke, #fff);
 }
 
 .row,
