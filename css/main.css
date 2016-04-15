@@ -311,6 +311,7 @@ background: whitesmoke;
 .container,
 .main-footer,
 .banner-footer,
+.flex
 
         {
 	width: 90%;
@@ -331,7 +332,8 @@ background: whitesmoke;
 .gallery,
 .container,
 .row-portfolio,
-.banner-footer-2 {
+.banner-footer-2,
+.flex {
          display: flex;
             }	
 
