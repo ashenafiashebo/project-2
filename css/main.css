@@ -182,7 +182,7 @@ ul.main-nav li {
    
         }
         
- .banner-footer h4 {
+ .banner-footer {
  	justify-content: space-around;
         align-self: center;
  }
@@ -358,17 +358,14 @@ background: whitesmoke;
  }
 
 
-.banner-footer {
-        flex-direction: column
-	justify-content: space-between;
-	flex-wrap: wrap;
-        background: whitesmoke;
-}
-
 .banner-footer h4 {
         color: gray;	
         font-size: 1.4em;
         text-align: center;
+        flex-direction: column
+	justify-content: space-between;
+	flex-wrap: wrap;
+        background: whitesmoke;
 }
 
 .gallery-1,
