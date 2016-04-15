@@ -244,7 +244,7 @@ ul.main-nav li {
   Media Queries
 ==================================== */
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
 
 .main-header,
 .row,
@@ -292,7 +292,7 @@ ul.main-nav li {
         color: black;
         font-size: 1px;
              }
- .footer-name  {
+ .footer-name a {
      order: -1;
      justify-content: space-between;
      display: inline-block;
