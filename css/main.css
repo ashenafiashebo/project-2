@@ -507,8 +507,9 @@ body{
 	margin-left: 125px;
 }
 
-.footer-name {
-         margin-left: 10px;
+.footer-name a {
+         margin-left: 15px;
+         margin-right: 75px;
              }  
       
                 
