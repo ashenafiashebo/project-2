@@ -178,7 +178,9 @@ ul.main-nav li {
          align-self: center;
         
             }
-  
+  .banner-footer li {
+  	color: black;
+  }
  .banner-footer-2 {
   width: 90%;	
   align-items: center;
