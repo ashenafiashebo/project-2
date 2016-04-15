@@ -296,7 +296,7 @@ ul.skills {
 @media (min-width: 768px) {
 
 body {
-      background: linear-gradient(whitesmoke, #fff);
+      background:#fff;
       }
 .main-header,
 .row,
