@@ -303,7 +303,9 @@ background: whitesmoke;
      display: inline-block;
      float: left;
      margin-right: 110px;
-            }   
+     
+            } 
+
  .main-nav-footer {
  	float: right;
         margin-left: 175px;
@@ -358,7 +360,7 @@ background: whitesmoke;
         flex-direction: column
 	justify-content: space-between;
 	flex-wrap: wrap;
-        background: linear-gradient(whitesmoke, #fff);
+        background: whitesmoke;
 }
 
 .banner-footer h4 {
