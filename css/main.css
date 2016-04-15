@@ -484,7 +484,7 @@ body{
 .banner-footer-2,
 .flex
         {
-	width: 80%;
+	width: 100%;
 	max-width: 1150px;
 	}
 
@@ -560,13 +560,6 @@ body{
         margin-left: 320px;
  }
 
-
-        
-  .banner-footer-2 {
-  	margin-bottom: 20px;
-  	
-  }
-        
  h4  {
      	margin-left: auto;
      	margin-right: auto;
