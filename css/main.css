@@ -45,7 +45,7 @@ h4 {
      	width: 320px;
      	font-size: 1em;
 	color: gray;
-	background: whitesmoke;
+
      }
      
 h3{
@@ -246,6 +246,10 @@ ul.main-nav li {
 ==================================== */
 
 @media (min-width: 768px) {
+
+body {
+background: whitesmoke;
+}
 
 .main-header,
 .row,
