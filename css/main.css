@@ -327,7 +327,7 @@ background: whitesmoke;
         color: gray;	
         font-size: 1.4em;
         text-align: center;
-        flex-direction: column
+        flex-direction: column;
 	justify-content: space-between;
 	flex-wrap: wrap;
         background: whitesmoke;
