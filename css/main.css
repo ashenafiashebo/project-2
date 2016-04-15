@@ -275,7 +275,7 @@ ul.main-nav li {
  }
  .main-footer a {
  	
-        color: yellow;
+        color: black;
         font-size: 1px;
              }
              
@@ -291,11 +291,11 @@ ul.main-nav li {
       }
 
  .banner-footer-2 {
-               align-items: center;
-               justify-content: space-between;
-               align-self: center;
-               font-size:.95em;
-               padding-bottom: 60px;
+        align-items: center;
+        justify-content: space-between;
+        align-self: center;
+        font-size:.95em;
+        padding-bottom: 60px;
                }
 
 .row
@@ -325,24 +325,21 @@ ul.main-nav li {
  }
 
 
-.banner-footer{
-	     
-	     flex-direction: column
-	     justify-content: space-between;
-	     flex-wrap: wrap;
-	     background: linear-gradient(whitesmoke, #fff);
-	     
-
+.banner-footer {
+        flex-direction: column
+	justify-content: space-between;
+	flex-wrap: wrap;
+        background: linear-gradient(whitesmoke, #fff);
 }
 
 .banner-footer h4 {
-             color: gray;	
-             font-size: 1.4em;
+        color: gray;	
+        font-size: 1.4em;
 }
 
 .gallery-1,
 .gallery-2 {
- margin-top: 30px;	
+        margin-top: 30px;	
 }
 
 .gallery li p {
@@ -353,7 +350,7 @@ ul.main-nav li {
 .banner {
          flex-direction: row;
          justify-content: space-around;
-          background: whitesmoke;
+         background: whitesmoke;
         }
 
 .tagline {
@@ -369,7 +366,6 @@ ul.main-nav li {
      	font-size: 1.4em;
         color:gray;
 	margin-bottom: 0;
-
      }
      
  ul.main-nav li 
@@ -380,9 +376,7 @@ ul.main-nav li {
 }
  .banner-image {
  	padding: 15px;
- 
  	margin-top: 15px;
-       	
    }  
 
 }
@@ -409,17 +403,17 @@ body{
 	}
 
 .main-header {
-	    margin-top: 15px;
-            flex-direction: row;
-            justify-content: space-between;
-            background: whitesmoke;
-            margin-left: 125px;
+    margin-top: 15px;
+    flex-direction: row;
+    justify-content: space-between;
+    background: whitesmoke;
+    margin-left: 125px;
            }
-           .main-footer a{
-           	color: white;
+.main-footer a{
+     color: black;
            }
            
-.main-footer{
+.main-footer {
 	background: whitesmoke;
 }
                 
@@ -432,7 +426,7 @@ body{
   
       }
       
-  .row-portfolio { 
+ .row-portfolio { 
   margin: auto;
   background: #fff;
   justify-content: center;
@@ -448,16 +442,6 @@ body{
         height: 850px;
         background:white;
 }
-.skill {
-  flex: 1;
-}
-
-.skill-1,
-.skill-2,
-.skill-3
- {
-  align-self: center;
- }
 
 .gallery-1,
 .gallery-2,
