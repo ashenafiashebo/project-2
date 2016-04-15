@@ -215,7 +215,7 @@ background : #0399ff;
   background: #fff;
   justify-content: center;
   align-self: center;	
-}
+       }
 .row {  
   flex: 1;
   background: #fff;
@@ -230,13 +230,12 @@ background : #0399ff;
 	margin-bottom: 24px;
 	flex-direction: column;
         background: whitesmoke;
-   
         }
         
  .banner-footer {
  	justify-content: space-around;
         align-self: center;
- }
+         }
 
 .banner-footer {
 	 background: whitesmoke;
@@ -244,8 +243,6 @@ background : #0399ff;
 	 padding-right: 2em;
 	 padding-left: 2em;
 	 color: lightgray;
-	 
-        
             }
 
  .banner-footer-2 {
@@ -254,8 +251,7 @@ background : #0399ff;
   justify-content: space-around;
   align-self: center;
   border-bottom: 1px solid lightgray;
-
- }
+            }
 
 .gallery li {
 	background-color: #fff;
@@ -265,15 +261,14 @@ background : #0399ff;
 	border-radius: 3px;
 	width: 320px;
 	text-align: center;
-
-}
+           }
 
 .gallery li a p {
 	margin: 0;
 	padding: 5%;
 	font-size: 0.75em;
 	color: #bdc3c7
-}
+            }
 
 /* ---- Page Elements ---- */
 
@@ -284,7 +279,7 @@ background : #0399ff;
         margin: 2em auto;
         border-radius: 3px;
         box-shadow: 0px 1px 0px rgba(52, 73, 94, 0.2);
-        }
+                }
  
 .tagline {
 	max-width: 50%;
@@ -293,7 +288,8 @@ background : #0399ff;
 	padding-right: 1em;
 	padding-left: 1em;
 	text-align: left;
-          }
+           }
+           
 /* ================================= 
   Media Queries
 ==================================== */
@@ -301,8 +297,8 @@ background : #0399ff;
 @media (min-width: 768px) {
 
 body {
-background: whitesmoke;
-}
+      background: whitesmoke;
+      }
 
 .main-header,
 .row,
@@ -313,7 +309,6 @@ background: whitesmoke;
 .banner-footer,
 .flex,
 .card
-
         {
 	width: 90%;
 	margin: 0 auto;
@@ -360,14 +355,12 @@ background: whitesmoke;
      display: inline-block;
      float: left;
      margin-right: 110px;
-     
             } 
 
  .main-nav-footer {
  	float: right;
         margin-left: 175px;
- }
-
+                }
 
  .footer-name a,
  .main-nav-footer a {
@@ -376,23 +369,23 @@ background: whitesmoke;
 	display: inline-block;
 	padding: 10px 15px;
 	font-size: .95em;
-      }
+           }
+           
  .flex {
 display : flex;
 max-width : 1200px;
 justify-content : space-around;
 margin : 0 auto;
-}
+          }
 
 .banner-footer {
         color: gray;	
         font-size: 1.4em;
         text-align: center;
         flex-direction: column;
-
 	flex-wrap: wrap;
         background: whitesmoke;
-}
+               }
 
  .banner-footer-2 {
         align-items: center;
@@ -401,9 +394,8 @@ margin : 0 auto;
         font-size:.95em;
         padding-bottom: 60px;
                }
-
 .row
-       {
+          {
      flex-wrap: wrap;
      flex-direction: row;
      height: 1100px;
@@ -417,7 +409,7 @@ margin : 0 auto;
   background: #fff;
   justify-content: center;
   align-self: center;
-  } 
+            } 
   
  .container {
      flex-wrap: wrap;
@@ -426,13 +418,13 @@ margin : 0 auto;
      justify-content: space-around;
      align-self: center;
      background: #fff;
- }
+            }
 
 
 .gallery-1,
 .gallery-2 {
         margin-top: 30px;	
-}
+           }
 
 .gallery li p {
          text-align: center;
