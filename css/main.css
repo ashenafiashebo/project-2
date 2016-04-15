@@ -311,7 +311,8 @@ background: whitesmoke;
 .container,
 .main-footer,
 .banner-footer,
-.flex
+.flex,
+.card
 
         {
 	width: 90%;
@@ -333,7 +334,8 @@ background: whitesmoke;
 .container,
 .row-portfolio,
 .banner-footer-2,
-.flex {
+.flex,
+.card {
          display: flex;
             }	
 
