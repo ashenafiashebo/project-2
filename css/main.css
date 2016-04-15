@@ -330,6 +330,7 @@ body {
 .row-portfolio,
 .banner-footer-2,
 .flex
+
          {
          display: flex;
          }	
@@ -375,7 +376,7 @@ body {
            
  .flex {
         display : flex;
-        max-width : 1200px;
+        max-width : 768px;
         justify-content : space-around;
         margin : 0 auto;
           }
