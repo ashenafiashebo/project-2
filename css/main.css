@@ -295,7 +295,6 @@ background : #0399ff;
 body {
       background: whitesmoke;
       }
-      
 .main-header,
 .row,
 .banner,
@@ -326,7 +325,7 @@ body {
 .row-portfolio,
 .banner-footer-2,
 .flex
- {
+         {
          display: flex;
             }	
 
@@ -337,14 +336,16 @@ body {
           justify-content: space-around;
           background: whitesmoke;
              }
+             
  .main-footer {
  	padding-top: 15px;
- }
+             }
+             
  .main-footer a {
- 	
         color: black;
         font-size: 1px;
              }
+             
  .footer-name a {
      order: -1;
      justify-content: space-between;
@@ -368,10 +369,10 @@ body {
            }
            
  .flex {
-display : flex;
-max-width : 1200px;
-justify-content : space-around;
-margin : 0 auto;
+        display : flex;
+        max-width : 1200px;
+        justify-content : space-around;
+        margin : 0 auto;
           }
 
 .banner-footer {
@@ -392,28 +393,28 @@ margin : 0 auto;
                }
 .row
           {
-     flex-wrap: wrap;
-     flex-direction: row;
-     height: 1100px;
-     justify-content: space-around;
-     align-self: center;
-     background: #fff;
+        flex-wrap: wrap;
+        flex-direction: row;
+        height: 1100px;
+        justify-content: space-around;
+        align-self: center;
+        background: #fff;
             }
     
 .row-portfolio { 
-  margin: auto;
-  background: #fff;
-  justify-content: center;
-  align-self: center;
+        margin: auto;
+        background: #fff;
+        justify-content: center;
+        align-self: center;
             } 
   
  .container {
-     flex-wrap: wrap;
-     flex-direction: row;
-     height: 1100px;
-     justify-content: space-around;
-     align-self: center;
-     background: #fff;
+        flex-wrap: wrap;
+        flex-direction: row;
+        height: 1100px;
+        justify-content: space-around;
+        align-self: center;
+        background: #fff;
             }
 
 
@@ -449,9 +450,9 @@ margin : 0 auto;
      
  ul.main-nav li 
   {
-  padding:.5em;
-  margin:.5em;
-  background-color:whitesmoke;
+       padding:.5em;
+       margin:.5em;
+       background-color:whitesmoke;
 }
  .banner-image {
  	padding: 15px;
@@ -465,8 +466,8 @@ margin : 0 auto;
 @media (min-width: 1025px) {
 
 body{
- background: whitesmoke;
-}
+        background: whitesmoke;
+     }
 
 .row,
 .container,
@@ -483,15 +484,16 @@ body{
 	}
 
 .main-header {
-    margin-top: 15px;
-    flex-direction: row;
-    justify-content: space-between;
-    background: whitesmoke;
-    margin-left: 125px;
-    max-width: 100%;
+       margin-top: 15px;
+       flex-direction: row;
+       justify-content: space-between;
+       background: whitesmoke;
+       margin-left: 125px;
+       max-width: 100%;
            }
+           
 .main-footer a {
-     color: black;
+       color: black;
       
            }
            
@@ -500,14 +502,9 @@ body{
 	margin-left: 125px;
 }
 
-.main-nav-footer a {
-      
-      }
-      
-         
 .footer-name {
-     margin-left: 10px;
-      }  
+         margin-left: 10px;
+             }  
       
                 
 .row {   
@@ -520,21 +517,18 @@ body{
       }
       
  .row-portfolio { 
-  margin: auto;
-  background: #fff;
-  justify-content: center;
-  align-self: center;
-  
- 
-}
-
+        margin: auto;
+        background: #fff;
+        justify-content: center;
+        align-self: center;
+         }
 
 .container {
 	flex-direction: row;
 	flex-wrap: wrap;
         height: 850px;
         background:white;
-}
+           }
 
 .gallery-1,
 .gallery-2,
@@ -578,9 +572,9 @@ body{
      
  ul.main-nav li 
    {
-  padding:.5em;
-  margin:.5em;
-  background-color: whitesmoke;
+        padding:.5em;
+        margin:.5em;
+        background-color: whitesmoke;
    }
   
 }
