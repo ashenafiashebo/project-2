@@ -431,6 +431,12 @@ body{
 .main-nav-footer a {
       
       }
+      
+         
+.footer-name {
+     margin-left: 50px;
+      }  
+      
                 
 .row {   
 	flex-direction: row;
