@@ -415,7 +415,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     background: whitesmoke;
-    margin-left: 125px;
+   
     max-width: 100%;
            }
 .main-footer a {
@@ -424,8 +424,7 @@ body{
            
 .main-footer {
 	background: white;
-	margin-left: 125px;
-	
+
 }
                 
 .row {   
