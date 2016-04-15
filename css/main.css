@@ -277,7 +277,11 @@ ul.main-nav li {
         color: black;
         font-size: 1px;
              }
-             
+ .footer-name  {
+     order: -1;
+     justify-content: space-between;
+     display: inline-block;
+            }          
 
 
  .footer-name a,
