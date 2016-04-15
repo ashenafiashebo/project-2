@@ -74,27 +74,24 @@ img {
 .footer-name {
 	font-size: 1.35em;
 	margin: 0;
-
-      }  
+          }  
       
 ul.main-nav li {
   padding:.5em;
   margin:.5em;
   background-color:#fff;
-       }
+           }
 
 .main-nav {
 	margin-top: 5px;
-       
           }
 
 .name a,
 .main-nav a {
-	 
 	text-align: center;
 	display: block;
 	padding: 10px 15px;
-      }
+            }
    
 .main-nav a {
 	font-size: .95em;
@@ -108,22 +105,21 @@ ul.main-nav li {
  	margin-left: 10px;
         order: -1;
         float: left;
-        
             }
  .main-nav-footer a {
  	display: none;
  }
  
- b{
+ b {
  	color: black;
- }
+            }
  
  .main-footer b {
  	color: red;
  	font-size: 1.25em;
         margin:0;
  
- }
+           }
 
 
 /* ---- Layout Containers ---- */
