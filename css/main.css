@@ -329,11 +329,10 @@ body {
 .container,
 .row-portfolio,
 .banner-footer-2,
-.flex,
-.row-portfolio
+.flex
          {
          display: flex;
-            }	
+         }	
 
 .main-header {
           margin-top: 15px;
@@ -353,11 +352,11 @@ body {
              }
              
  .footer-name a {
-     order: -1;
-     justify-content: space-between;
-     display: inline-block;
-     float: left;
-     margin-right: 110px;
+        order: -1;
+        justify-content: space-between;
+        display: inline-block;
+        float: left;
+        margin-right: 110px;
             } 
 
  .main-nav-footer {
@@ -424,7 +423,6 @@ body {
         background: #fff;
             }
 
-
 .gallery-1,
 .gallery-2 {
         margin-top: 30px;	
@@ -445,7 +443,7 @@ body {
           order: -1;
          }
 
- h4{
+ h4 {
      	justify-content: center;
      	items-align: center;
      	width: 768px;
