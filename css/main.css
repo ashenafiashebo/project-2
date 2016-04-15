@@ -285,6 +285,7 @@ ul.main-nav li {
             }   
  .main-nav-footer {
  	float: right;
+ 	margin-left: 20px;
  }
 
 
@@ -315,7 +316,7 @@ ul.main-nav li {
      background: #fff;
             }
     
-  .row-portfolio { 
+.row-portfolio { 
   margin: auto;
   background: #fff;
   justify-content: center;
