@@ -483,7 +483,8 @@ body{
 .banner,
 .row-portfolio,
 .banner-footer,
-.banner-footer-2
+.banner-footer-2,
+.flex
         {
 	width: 80%;
 	max-width: 1150px;
