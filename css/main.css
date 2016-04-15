@@ -44,9 +44,7 @@ h4 {
      	items-align: center;
      	width: 320px;
      	font-size: 1em;
-	
 	color: gray;
-     	
      }
      
 h3{
@@ -106,7 +104,6 @@ ul.main-nav li {
 .footer-name {
  	margin-right: 150px;
  	margin-left: 30px;
-       
         order: -1;
         float: left;
             }
@@ -145,7 +142,6 @@ ul.main-nav li {
   background: #fff;
   justify-content: center;
   align-self: center;
-
 }
 
 .container {
@@ -154,7 +150,6 @@ ul.main-nav li {
   background: #fff;
   border-radius: 5px;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
- 
 }
 
 .skill {
@@ -166,7 +161,6 @@ ul.main-nav li {
         background: #fff;
         justify-content: center;
         align-self: center;
-     
 }
 
 .skill-1{
@@ -217,7 +211,6 @@ ul.main-nav li {
 
 .banner-footer {
 	 background: linear-gradient(whitesmoke, #fff);
-	 
 	 padding-right: 2em;
 	 padding-left: 2em;
 	 color: lightgray;
