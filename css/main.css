@@ -394,7 +394,7 @@ ul.main-nav li {
 @media (min-width: 1025px) {
 
 body{
- background: linear-gradient(whitesmoke, #fff);
+ background: whitesmoke;
 }
 
 .row,
@@ -423,7 +423,7 @@ body{
            }
            
 .main-footer {
-	background: white;
+	background: whitesmoke;
 	margin-left: 125px;
 }
                 
@@ -468,7 +468,7 @@ body{
        
         }
  .banner-footer {
- 	background:linear-gradient(whitesmoke, #fff, #fff, #fff, #fff, #fff, #fff, #fff, #fff, #fff);
+ 	background:whitesmoke;
  	width: 80%;
  }
  
