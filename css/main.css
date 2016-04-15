@@ -446,13 +446,13 @@ body {
          }
 
  h4{
-     
      	justify-content: center;
      	items-align: center;
      	width: 768px;
      	font-size: 1.4em;
         color:gray;
 	margin-bottom: 0;
+	text-align: center;
      }
      
  ul.main-nav li 
