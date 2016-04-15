@@ -477,7 +477,7 @@ body{
 .row,
 .container,
 .main-footer,
-
+.main-header,
 .banner,
 .row-portfolio,
 .banner-footer,
@@ -494,7 +494,7 @@ body{
        justify-content: space-between;
        background: whitesmoke;
        margin-left: 125px;
-       max-width: 100%;
+      
            }
            
 .main-footer a {
@@ -508,11 +508,10 @@ body{
 }
 
 .footer-name a {
-         margin-left: 15px;
-         margin-right: 75px;
+         margin-left: 25px;
+         margin-right: 150px;
              }  
-      
-                
+       
 .row {   
 	flex-direction: row;
 	flex: 2 800px;
