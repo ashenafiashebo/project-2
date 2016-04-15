@@ -386,7 +386,7 @@ ul.main-nav li {
 @media (min-width: 1025px) {
 
 body{
- background: whitesmoke;
+ background: linear-gradient(whitesmoke, #fff);
 }
 
 .row,
@@ -460,7 +460,7 @@ body{
         
   .banner-footer-2 {
   	margin-bottom: 20px;
-  	background: whitesmoke;
+  	
   }
         
  h4  {
