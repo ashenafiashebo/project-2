@@ -282,7 +282,10 @@ ul.main-nav li {
      display: inline-block;
      float: left;
      margin-right: 265px;
-            }          
+            }   
+ .main-nav-footer {
+ 	float: right;
+ }
 
 
  .footer-name a,
