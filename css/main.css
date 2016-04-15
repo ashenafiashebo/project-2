@@ -13,7 +13,7 @@ body {
 	display: flex;
         flex-direction: column;
         min-height: 100vh;
-        background: white;
+        background: linear-gradient(whitesmoke, #fff);
       }
 
 ul {
@@ -118,7 +118,7 @@ ul.main-nav li {
 
 	padding-top: .5em;
 	padding-bottom: .5em;
-	background: whitesmoke;
+	
 
             }
 
@@ -126,7 +126,7 @@ ul.main-nav li {
 
         margin-top:30px;
 	margin-bottom: 0;
-	background: #fff;
+
         flex-direction: row;
 	justify-content: space-between;	
              }
