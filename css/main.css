@@ -110,6 +110,9 @@ ul.main-nav li {
         order: -1;
         float: left;
             }
+ .main-nav-footer a {
+ 	display: none;
+ }
             
 
 /* ---- Layout Containers ---- */
