@@ -172,9 +172,45 @@ transition : all 0.5s;
   border-radius: 5px;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 }
+.card h5 {
+text-decoration : underline;
 
+
+}
+.card h4 {
+color : lightblue;
+}
+
+.flex{
+
+ background-color: lightblue;
+}
+.card h3 {
+color : gray;
+}
+.card h2 {
+color : lightgray;
+}
+.card:hover {
+border-color : #ff99ff;
+}
+ul.skills {
+padding : 0;
+text-align : center;
+}
+.skills li {
+border-radius : 6px;
+display : inline-block;
+background : #ff9904;
+color : white;
+padding : 5px 10px;
+margin : 2px;
+}
+.skills li:nth-child(odd) {
+background : #0399ff;
+}
 .flex {
-flex: 1;
+  flex: 1;
   background: #fff;
   justify-content: center;
   align-self: center;	
