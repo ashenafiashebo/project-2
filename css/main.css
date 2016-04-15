@@ -117,7 +117,8 @@ ul.main-nav li {
  
  .main-footer b {
  	color: red;
- 	font-size: .95em;
+ 	font-size: 2em;
+ 	padding-bottom: 20px;
  }
 
 
