@@ -118,7 +118,6 @@ ul.main-nav li {
  	color: red;
  	font-size: 1.25em;
         margin:0;
- 
            }
 
 
@@ -140,83 +139,89 @@ ul.main-nav li {
              }
 
  .main-footer a {
- 	
         color: black;
         font-size: .95em;
              }
 .card {
-margin : 30px;
-padding : 20px 40px 40px;
-max-width : 500px;
-text-align : left;
-background : #fff;
-border-bottom : 4px solid #ccc;
-border-radius : 6px;
-transition : all 0.5s;
+        margin : 30px;
+        padding : 20px 40px 40px;
+        max-width : 500px;
+        text-align : left;
+        background : #fff;
+        border-bottom : 4px solid #ccc;
+        border-radius : 6px;
+        transition : all 0.5s;
 }
 
 .row-portfolio { 
-  margin: auto;
-  background: #fff;
-  justify-content: center;
-  align-self: center;
+       margin: auto;
+       background: #fff;
+       justify-content: center;
+       align-self: center;
 }
 
 .container {
-  margin: 45px auto;
-  padding: 10px;
-  background: #fff;
-  border-radius: 5px;
-  box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
-}
+       margin: 45px auto;
+       padding: 10px;
+       background: #fff;
+       border-radius: 5px;
+       box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+          } 
+          
 .card h5 {
-text-decoration : underline;
+      text-decoration : underline;
 
 
 }
 .card h4 {
-color : lightblue;
+      color : lightblue;
 }
 
 .flex{
 
- background-color: lightblue;
+      background-color: lightblue;
 }
+
 .card h3 {
-color : gray;
+     color : gray;
 }
+
 .card h2 {
-color : lightgray;
+     color : lightgray;
 }
+
 .card:hover {
-border-color : #ff99ff;
+     border-color : #ff99ff;
 }
 ul.skills {
-padding : 0;
-text-align : center;
-}
+     padding : 0;
+     text-align : center;
+} 
 .skills li {
-border-radius : 6px;
-display : inline-block;
-background : #ff9904;
-color : white;
-padding : 5px 10px;
-margin : 2px;
-}
+     border-radius : 6px;
+     display : inline-block;
+     background : #ff9904;
+     color : white;
+     padding : 5px 10px;
+     margin : 2px;
+          }
+          
 .skills li:nth-child(odd) {
-background : #0399ff;
-}
+     background : #0399ff;
+} 
+
 .flex {
-  flex: 1;
-  background: #fff;
-  justify-content: center;
-  align-self: center;	
+      flex: 1;
+      background: #fff;
+      justify-content: center;
+      align-self: center;	
        }
+       
 .row {  
-  flex: 1;
-  background: #fff;
-  justify-content: center;
-  align-self: center;
+     flex: 1;
+     background: #fff;
+     justify-content: center;
+     align-self: center;
   
      }
      
@@ -242,11 +247,11 @@ background : #0399ff;
             }
 
  .banner-footer-2 {
-  width: 90%;	
-  align-items: center;
-  justify-content: space-around;
-  align-self: center;
-  border-bottom: 1px solid lightgray;
+        width: 90%;	
+        align-items: center;
+        justify-content: space-around;
+        align-self: center;
+        border-bottom: 1px solid lightgray;
             }
 
 .gallery li {
