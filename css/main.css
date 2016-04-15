@@ -149,13 +149,15 @@ ul.main-nav li {
         font-size: .95em;
              }
 .card {
-  margin: 45px auto;
-  padding: 10px;
-  background: #fff;
-  border-radius: 5px;
-  box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);	
+margin : 30px;
+padding : 20px 40px 40px;
+max-width : 500px;
+text-align : left;
+background : #fff;
+border-bottom : 4px solid #ccc;
+border-radius : 6px;
+transition : all 0.5s;
 }
-
 .row-portfolio { 
   margin: auto;
   background: #fff;
