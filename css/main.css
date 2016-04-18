@@ -41,7 +41,6 @@ h3 {
 h4 {
      	text-align: center;
      	justify-content: center;
-     	items-align: center;
      	width: 320px;
      	font-size: 1em;
 	color: gray;
@@ -224,7 +223,6 @@ ul.skills {
      
 .banner {
 	color: #fff;
-	padding-top: 3.2em 0;
 	margin-bottom: 24px;
 	flex-direction: column;
         background: whitesmoke;
@@ -445,7 +443,6 @@ body {
 
  h4 {
      	justify-content: center;
-     	items-align: center;
      	width: 768px;
      	font-size: 1.4em;
         color:gray;
@@ -565,7 +562,6 @@ body{
      	margin-left: auto;
      	margin-right: auto;
      	justify-content: center;
-     	items-align: center;
      	width: 1025px;
      
      }
