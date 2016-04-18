@@ -541,6 +541,7 @@ body{
 }
 
 .banner {
+	 position: fixed;
         flex-direction: row;
         justify-content: space-around;
         background: whitesmoke;
