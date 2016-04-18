@@ -541,13 +541,13 @@ body{
 }
 
 .banner {
-	 position: fixed;
+	 
         flex-direction: row;
         justify-content: space-around;
         background: whitesmoke;
         margin-left: 125px;
         width: 80%;
-       
+        padding-top: 60px;
         }
  .banner-footer {
  	background:whitesmoke;
