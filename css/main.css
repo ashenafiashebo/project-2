@@ -489,6 +489,7 @@ body{
 	}
 
 .main-header {
+       position: fixed;
        flex-direction: row;
        justify-content: space-between;
        background: whitesmoke;
