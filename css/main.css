@@ -140,6 +140,7 @@ ul.main-nav li {
         color: black;
         font-size: .95em;
              }
+             
 .card {
         margin : 30px;
         padding : 20px 40px 40px;
@@ -149,14 +150,14 @@ ul.main-nav li {
         border-bottom : 4px solid #ccc;
         border-radius : 6px;
         transition : all 0.5s;
-}
+      }
 
 .row-portfolio { 
        margin: auto;
        background: #fff;
        justify-content: center;
        align-self: center;
-}
+           }
 
 .container {
        margin: 45px auto;
@@ -168,8 +169,6 @@ ul.main-nav li {
           
 .card h5 {
       text-decoration : underline;
-
-
 }
 .card h4 {
       color : lightblue;
@@ -178,11 +177,11 @@ ul.main-nav li {
 .flex{
 
       background-color: lightblue;
-}
+   }
 
 .card h3 {
      color : gray;
-}
+     }
 
 .card h2 {
      color : lightgray;
@@ -206,7 +205,7 @@ ul.skills {
           
 .skills li:nth-child(odd) {
      background : #0399ff;
-} 
+        } 
 
 .flex {
       flex: 1;
@@ -298,6 +297,7 @@ ul.skills {
 body {
       background:whitesmoke;
       }
+      
 .main-header,
 .row,
 .banner,
@@ -306,7 +306,6 @@ body {
 .main-footer,
 .banner-footer,
 .flex
-
         {
 	width: 100%;
 	margin: 0 auto;
@@ -328,7 +327,6 @@ body {
 .row-portfolio,
 .banner-footer-2,
 .flex
-
          {
          display: flex;
          }	
@@ -456,11 +454,12 @@ body {
      }
      
  ul.main-nav li 
-  {
+         {
        padding:.5em;
        margin:.5em;
        background-color:whitesmoke;
-}
+         }
+         
  .banner-image {
  	padding: 15px;
  	margin-top: 15px;
@@ -516,9 +515,9 @@ body{
 .row {   
 	flex-direction: row;
 	flex: 2 800px;
-	 justify-content: center;
-         align-self: center;
-         background: #fff;
+	justify-content: center;
+        align-self: center;
+        background: #fff;
   
       }
       
@@ -540,7 +539,7 @@ body{
 .gallery-2,
 .gallery-3 {
 	margin-top:50px;
-}
+            }
 
 .banner {
 	 
@@ -551,15 +550,16 @@ body{
         width: 80%;
         padding-top: 60px;
         }
+        
  .banner-footer {
  	background:whitesmoke;
  	width: 80%;
- }
+         }
  
-  .main-nav-footer {
+ .main-nav-footer {
  	float: right;
         margin-left: 320px;
- }
+             }
 
  h4  {
      	margin-left: auto;
@@ -571,10 +571,10 @@ body{
      }
      
  ul.main-nav li 
-   {
+        {
         padding:.5em;
         margin:.5em;
         background-color: whitesmoke;
-   }
+         }
   
 }
